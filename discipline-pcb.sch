@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW1
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW15
 U 1 1 5BDAA9A5
 P 3250 3500
-F 0 "SW1" H 3250 3733 60  0000 C CNN
+F 0 "SW15" H 3250 3733 60  0000 C CNN
 F 1 "KEYSW" H 3250 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 3250 3500 60  0001 C CNN
 F 3 "" H 3250 3500 60  0000 C CNN
@@ -25,10 +25,10 @@ F 3 "" H 3250 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D1
+L discipline-pcb-rescue:D-Device D15
 U 1 1 5BDAAA52
 P 2900 3700
-F 0 "D1" V 2946 3621 50  0000 R CNN
+F 0 "D15" V 2946 3621 50  0000 R CNN
 F 1 " " V 2855 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 3700 50  0001 C CNN
 F 3 "~" H 2900 3700 50  0001 C CNN
@@ -40,10 +40,10 @@ Wire Wire Line
 Wire Wire Line
 	2900 3500 2900 3550
 $Comp
-L discipline-pcb-rescue:D-Device D2
+L discipline-pcb-rescue:D-Device D1
 U 1 1 5BDB374A
 P 3600 3150
-F 0 "D2" V 3646 3071 50  0000 R CNN
+F 0 "D1" V 3646 3071 50  0000 R CNN
 F 1 " " V 3555 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3600 3150 50  0001 C CNN
 F 3 "~" H 3600 3150 50  0001 C CNN
@@ -53,10 +53,10 @@ $EndComp
 Wire Wire Line
 	3600 2950 3600 3000
 $Comp
-L discipline-pcb-rescue:D-Device D3
+L discipline-pcb-rescue:D-Device D2
 U 1 1 5BDB4A48
 P 4300 3150
-F 0 "D3" V 4346 3071 50  0000 R CNN
+F 0 "D2" V 4346 3071 50  0000 R CNN
 F 1 " " V 4255 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4300 3150 50  0001 C CNN
 F 3 "~" H 4300 3150 50  0001 C CNN
@@ -68,10 +68,10 @@ Wire Wire Line
 Wire Wire Line
 	4300 2950 4300 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW4
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW3
 U 1 1 5BDB5E7B
 P 5350 2950
-F 0 "SW4" H 5350 3183 60  0000 C CNN
+F 0 "SW3" H 5350 3183 60  0000 C CNN
 F 1 "KEYSW" H 5350 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 5350 2950 60  0001 C CNN
 F 3 "" H 5350 2950 60  0000 C CNN
@@ -79,10 +79,10 @@ F 3 "" H 5350 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D4
+L discipline-pcb-rescue:D-Device D3
 U 1 1 5BDB5E82
 P 5000 3150
-F 0 "D4" V 5046 3071 50  0000 R CNN
+F 0 "D3" V 5046 3071 50  0000 R CNN
 F 1 " " V 4955 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5000 3150 50  0001 C CNN
 F 3 "~" H 5000 3150 50  0001 C CNN
@@ -94,10 +94,10 @@ Wire Wire Line
 Wire Wire Line
 	5000 2950 5000 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW5
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW4
 U 1 1 5BDB746A
 P 6050 2950
-F 0 "SW5" H 6050 3183 60  0000 C CNN
+F 0 "SW4" H 6050 3183 60  0000 C CNN
 F 1 "KEYSW" H 6050 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 6050 2950 60  0001 C CNN
 F 3 "" H 6050 2950 60  0000 C CNN
@@ -105,10 +105,10 @@ F 3 "" H 6050 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D5
+L discipline-pcb-rescue:D-Device D4
 U 1 1 5BDB7471
 P 5700 3150
-F 0 "D5" V 5746 3071 50  0000 R CNN
+F 0 "D4" V 5746 3071 50  0000 R CNN
 F 1 " " V 5655 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5700 3150 50  0001 C CNN
 F 3 "~" H 5700 3150 50  0001 C CNN
@@ -120,10 +120,10 @@ Wire Wire Line
 Wire Wire Line
 	5700 2950 5700 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW6
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW5
 U 1 1 5BDB8AF4
 P 6750 2950
-F 0 "SW6" H 6750 3183 60  0000 C CNN
+F 0 "SW5" H 6750 3183 60  0000 C CNN
 F 1 "KEYSW" H 6750 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 6750 2950 60  0001 C CNN
 F 3 "" H 6750 2950 60  0000 C CNN
@@ -131,10 +131,10 @@ F 3 "" H 6750 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D6
+L discipline-pcb-rescue:D-Device D5
 U 1 1 5BDB8AFB
 P 6400 3150
-F 0 "D6" V 6446 3071 50  0000 R CNN
+F 0 "D5" V 6446 3071 50  0000 R CNN
 F 1 " " V 6355 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6400 3150 50  0001 C CNN
 F 3 "~" H 6400 3150 50  0001 C CNN
@@ -146,10 +146,10 @@ Wire Wire Line
 Wire Wire Line
 	6400 2950 6400 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW7
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW6
 U 1 1 5BDBA2A7
 P 7450 2950
-F 0 "SW7" H 7450 3183 60  0000 C CNN
+F 0 "SW6" H 7450 3183 60  0000 C CNN
 F 1 "KEYSW" H 7450 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 7450 2950 60  0001 C CNN
 F 3 "" H 7450 2950 60  0000 C CNN
@@ -157,10 +157,10 @@ F 3 "" H 7450 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D7
+L discipline-pcb-rescue:D-Device D6
 U 1 1 5BDBA2AE
 P 7100 3150
-F 0 "D7" V 7146 3071 50  0000 R CNN
+F 0 "D6" V 7146 3071 50  0000 R CNN
 F 1 " " V 7055 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7100 3150 50  0001 C CNN
 F 3 "~" H 7100 3150 50  0001 C CNN
@@ -172,10 +172,10 @@ Wire Wire Line
 Wire Wire Line
 	7100 2950 7100 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW8
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW7
 U 1 1 5BDC4F87
 P 8150 2950
-F 0 "SW8" H 8150 3183 60  0000 C CNN
+F 0 "SW7" H 8150 3183 60  0000 C CNN
 F 1 "KEYSW" H 8150 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 8150 2950 60  0001 C CNN
 F 3 "" H 8150 2950 60  0000 C CNN
@@ -183,10 +183,10 @@ F 3 "" H 8150 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D8
+L discipline-pcb-rescue:D-Device D7
 U 1 1 5BDC4F8E
 P 7800 3150
-F 0 "D8" V 7846 3071 50  0000 R CNN
+F 0 "D7" V 7846 3071 50  0000 R CNN
 F 1 " " V 7755 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7800 3150 50  0001 C CNN
 F 3 "~" H 7800 3150 50  0001 C CNN
@@ -198,10 +198,10 @@ Wire Wire Line
 Wire Wire Line
 	7800 2950 7800 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW9
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW8
 U 1 1 5BDC6958
 P 8850 2950
-F 0 "SW9" H 8850 3183 60  0000 C CNN
+F 0 "SW8" H 8850 3183 60  0000 C CNN
 F 1 "KEYSW" H 8850 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 8850 2950 60  0001 C CNN
 F 3 "" H 8850 2950 60  0000 C CNN
@@ -209,10 +209,10 @@ F 3 "" H 8850 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D9
+L discipline-pcb-rescue:D-Device D8
 U 1 1 5BDC695F
 P 8500 3150
-F 0 "D9" V 8546 3071 50  0000 R CNN
+F 0 "D8" V 8546 3071 50  0000 R CNN
 F 1 " " V 8455 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8500 3150 50  0001 C CNN
 F 3 "~" H 8500 3150 50  0001 C CNN
@@ -224,10 +224,10 @@ Wire Wire Line
 Wire Wire Line
 	8500 2950 8500 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW10
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW9
 U 1 1 5BDC8400
 P 9550 2950
-F 0 "SW10" H 9550 3183 60  0000 C CNN
+F 0 "SW9" H 9550 3183 60  0000 C CNN
 F 1 "KEYSW" H 9550 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 9550 2950 60  0001 C CNN
 F 3 "" H 9550 2950 60  0000 C CNN
@@ -235,10 +235,10 @@ F 3 "" H 9550 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D10
+L discipline-pcb-rescue:D-Device D9
 U 1 1 5BDC8407
 P 9200 3150
-F 0 "D10" V 9246 3071 50  0000 R CNN
+F 0 "D9" V 9246 3071 50  0000 R CNN
 F 1 " " V 9155 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9200 3150 50  0001 C CNN
 F 3 "~" H 9200 3150 50  0001 C CNN
@@ -250,10 +250,10 @@ Wire Wire Line
 Wire Wire Line
 	9200 2950 9200 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW11
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW10
 U 1 1 5BDC9FAD
 P 10250 2950
-F 0 "SW11" H 10250 3183 60  0000 C CNN
+F 0 "SW10" H 10250 3183 60  0000 C CNN
 F 1 "KEYSW" H 10250 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10250 2950 60  0001 C CNN
 F 3 "" H 10250 2950 60  0000 C CNN
@@ -261,10 +261,10 @@ F 3 "" H 10250 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D11
+L discipline-pcb-rescue:D-Device D10
 U 1 1 5BDC9FB4
 P 9900 3150
-F 0 "D11" V 9946 3071 50  0000 R CNN
+F 0 "D10" V 9946 3071 50  0000 R CNN
 F 1 " " V 9855 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9900 3150 50  0001 C CNN
 F 3 "~" H 9900 3150 50  0001 C CNN
@@ -276,10 +276,10 @@ Wire Wire Line
 Wire Wire Line
 	9900 2950 9900 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW12
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW11
 U 1 1 5BDCBC8D
 P 10950 2950
-F 0 "SW12" H 10950 3183 60  0000 C CNN
+F 0 "SW11" H 10950 3183 60  0000 C CNN
 F 1 "KEYSW" H 10950 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10950 2950 60  0001 C CNN
 F 3 "" H 10950 2950 60  0000 C CNN
@@ -287,10 +287,10 @@ F 3 "" H 10950 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D12
+L discipline-pcb-rescue:D-Device D11
 U 1 1 5BDCBC94
 P 10600 3150
-F 0 "D12" V 10646 3071 50  0000 R CNN
+F 0 "D11" V 10646 3071 50  0000 R CNN
 F 1 " " V 10555 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10600 3150 50  0001 C CNN
 F 3 "~" H 10600 3150 50  0001 C CNN
@@ -302,10 +302,10 @@ Wire Wire Line
 Wire Wire Line
 	10600 2950 10600 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW13
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW12
 U 1 1 5BDCDA46
 P 11650 2950
-F 0 "SW13" H 11650 3183 60  0000 C CNN
+F 0 "SW12" H 11650 3183 60  0000 C CNN
 F 1 "KEYSW" H 11650 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 11650 2950 60  0001 C CNN
 F 3 "" H 11650 2950 60  0000 C CNN
@@ -313,10 +313,10 @@ F 3 "" H 11650 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D13
+L discipline-pcb-rescue:D-Device D12
 U 1 1 5BDCDA4D
 P 11300 3150
-F 0 "D13" V 11346 3071 50  0000 R CNN
+F 0 "D12" V 11346 3071 50  0000 R CNN
 F 1 " " V 11255 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11300 3150 50  0001 C CNN
 F 3 "~" H 11300 3150 50  0001 C CNN
@@ -328,10 +328,10 @@ Wire Wire Line
 Wire Wire Line
 	11300 2950 11300 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW14
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW13
 U 1 1 5BDCF8D2
 P 12350 2950
-F 0 "SW14" H 12350 3183 60  0000 C CNN
+F 0 "SW13" H 12350 3183 60  0000 C CNN
 F 1 "KEYSW" H 12350 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_2.00u_PCBNOSCREEN" H 12350 2950 60  0001 C CNN
 F 3 "" H 12350 2950 60  0000 C CNN
@@ -339,10 +339,10 @@ F 3 "" H 12350 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D14
+L discipline-pcb-rescue:D-Device D13
 U 1 1 5BDCF8D9
 P 12000 3150
-F 0 "D14" V 12046 3071 50  0000 R CNN
+F 0 "D13" V 12046 3071 50  0000 R CNN
 F 1 " " V 11955 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12000 3150 50  0001 C CNN
 F 3 "~" H 12000 3150 50  0001 C CNN
@@ -354,10 +354,10 @@ Wire Wire Line
 Wire Wire Line
 	12000 2950 12000 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW15
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW14
 U 1 1 5BDD186B
 P 13050 2950
-F 0 "SW15" H 13050 3183 60  0000 C CNN
+F 0 "SW14" H 13050 3183 60  0000 C CNN
 F 1 "KEYSW" H 13050 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 13050 2950 60  0001 C CNN
 F 3 "" H 13050 2950 60  0000 C CNN
@@ -365,10 +365,10 @@ F 3 "" H 13050 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D15
+L discipline-pcb-rescue:D-Device D14
 U 1 1 5BDD1872
 P 12700 3150
-F 0 "D15" V 12746 3071 50  0000 R CNN
+F 0 "D14" V 12746 3071 50  0000 R CNN
 F 1 " " V 12655 3071 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12700 3150 50  0001 C CNN
 F 3 "~" H 12700 3150 50  0001 C CNN
@@ -380,10 +380,10 @@ Wire Wire Line
 Wire Wire Line
 	12700 2950 12700 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW16
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW30
 U 1 1 5BDD4A79
 P 3250 4100
-F 0 "SW16" H 3250 4333 60  0000 C CNN
+F 0 "SW30" H 3250 4333 60  0000 C CNN
 F 1 "KEYSW" H 3250 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 3250 4100 60  0001 C CNN
 F 3 "" H 3250 4100 60  0000 C CNN
@@ -391,10 +391,10 @@ F 3 "" H 3250 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D16
+L discipline-pcb-rescue:D-Device D30
 U 1 1 5BDD4A80
 P 2900 4300
-F 0 "D16" V 2946 4221 50  0000 R CNN
+F 0 "D30" V 2946 4221 50  0000 R CNN
 F 1 " " V 2855 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 4300 50  0001 C CNN
 F 3 "~" H 2900 4300 50  0001 C CNN
@@ -406,10 +406,10 @@ Wire Wire Line
 Wire Wire Line
 	2900 4100 2900 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW17
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW16
 U 1 1 5BDD4A89
 P 3950 3500
-F 0 "SW17" H 3950 3733 60  0000 C CNN
+F 0 "SW16" H 3950 3733 60  0000 C CNN
 F 1 "KEYSW" H 3950 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 3950 3500 60  0001 C CNN
 F 3 "" H 3950 3500 60  0000 C CNN
@@ -417,10 +417,10 @@ F 3 "" H 3950 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D17
+L discipline-pcb-rescue:D-Device D16
 U 1 1 5BDD4A90
 P 3600 3700
-F 0 "D17" V 3646 3621 50  0000 R CNN
+F 0 "D16" V 3646 3621 50  0000 R CNN
 F 1 " " V 3555 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3600 3700 50  0001 C CNN
 F 3 "~" H 3600 3700 50  0001 C CNN
@@ -432,10 +432,10 @@ Wire Wire Line
 Wire Wire Line
 	3600 3500 3600 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW18
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW17
 U 1 1 5BDD4A99
 P 4650 3500
-F 0 "SW18" H 4650 3733 60  0000 C CNN
+F 0 "SW17" H 4650 3733 60  0000 C CNN
 F 1 "KEYSW" H 4650 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 4650 3500 60  0001 C CNN
 F 3 "" H 4650 3500 60  0000 C CNN
@@ -443,10 +443,10 @@ F 3 "" H 4650 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D18
+L discipline-pcb-rescue:D-Device D17
 U 1 1 5BDD4AA0
 P 4300 3700
-F 0 "D18" V 4346 3621 50  0000 R CNN
+F 0 "D17" V 4346 3621 50  0000 R CNN
 F 1 " " V 4255 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4300 3700 50  0001 C CNN
 F 3 "~" H 4300 3700 50  0001 C CNN
@@ -458,10 +458,10 @@ Wire Wire Line
 Wire Wire Line
 	4300 3500 4300 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW19
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW18
 U 1 1 5BDD4AA9
 P 5350 3500
-F 0 "SW19" H 5350 3733 60  0000 C CNN
+F 0 "SW18" H 5350 3733 60  0000 C CNN
 F 1 "KEYSW" H 5350 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 5350 3500 60  0001 C CNN
 F 3 "" H 5350 3500 60  0000 C CNN
@@ -469,10 +469,10 @@ F 3 "" H 5350 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D19
+L discipline-pcb-rescue:D-Device D18
 U 1 1 5BDD4AB0
 P 5000 3700
-F 0 "D19" V 5046 3621 50  0000 R CNN
+F 0 "D18" V 5046 3621 50  0000 R CNN
 F 1 " " V 4955 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5000 3700 50  0001 C CNN
 F 3 "~" H 5000 3700 50  0001 C CNN
@@ -484,10 +484,10 @@ Wire Wire Line
 Wire Wire Line
 	5000 3500 5000 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW20
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW19
 U 1 1 5BDD4AB9
 P 6050 3500
-F 0 "SW20" H 6050 3733 60  0000 C CNN
+F 0 "SW19" H 6050 3733 60  0000 C CNN
 F 1 "KEYSW" H 6050 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 6050 3500 60  0001 C CNN
 F 3 "" H 6050 3500 60  0000 C CNN
@@ -495,10 +495,10 @@ F 3 "" H 6050 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D20
+L discipline-pcb-rescue:D-Device D19
 U 1 1 5BDD4AC0
 P 5700 3700
-F 0 "D20" V 5746 3621 50  0000 R CNN
+F 0 "D19" V 5746 3621 50  0000 R CNN
 F 1 " " V 5655 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5700 3700 50  0001 C CNN
 F 3 "~" H 5700 3700 50  0001 C CNN
@@ -510,10 +510,10 @@ Wire Wire Line
 Wire Wire Line
 	5700 3500 5700 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW21
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW20
 U 1 1 5BDD4AC9
 P 6750 3500
-F 0 "SW21" H 6750 3733 60  0000 C CNN
+F 0 "SW20" H 6750 3733 60  0000 C CNN
 F 1 "KEYSW" H 6750 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 6750 3500 60  0001 C CNN
 F 3 "" H 6750 3500 60  0000 C CNN
@@ -521,10 +521,10 @@ F 3 "" H 6750 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D21
+L discipline-pcb-rescue:D-Device D20
 U 1 1 5BDD4AD0
 P 6400 3700
-F 0 "D21" V 6446 3621 50  0000 R CNN
+F 0 "D20" V 6446 3621 50  0000 R CNN
 F 1 " " V 6355 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6400 3700 50  0001 C CNN
 F 3 "~" H 6400 3700 50  0001 C CNN
@@ -536,10 +536,10 @@ Wire Wire Line
 Wire Wire Line
 	6400 3500 6400 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW22
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW21
 U 1 1 5BDD4AD9
 P 7450 3500
-F 0 "SW22" H 7450 3733 60  0000 C CNN
+F 0 "SW21" H 7450 3733 60  0000 C CNN
 F 1 "KEYSW" H 7450 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 7450 3500 60  0001 C CNN
 F 3 "" H 7450 3500 60  0000 C CNN
@@ -547,10 +547,10 @@ F 3 "" H 7450 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D22
+L discipline-pcb-rescue:D-Device D21
 U 1 1 5BDD4AE0
 P 7100 3700
-F 0 "D22" V 7146 3621 50  0000 R CNN
+F 0 "D21" V 7146 3621 50  0000 R CNN
 F 1 " " V 7055 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7100 3700 50  0001 C CNN
 F 3 "~" H 7100 3700 50  0001 C CNN
@@ -562,10 +562,10 @@ Wire Wire Line
 Wire Wire Line
 	7100 3500 7100 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW23
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW22
 U 1 1 5BDD4AE9
 P 8150 3500
-F 0 "SW23" H 8150 3733 60  0000 C CNN
+F 0 "SW22" H 8150 3733 60  0000 C CNN
 F 1 "KEYSW" H 8150 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 8150 3500 60  0001 C CNN
 F 3 "" H 8150 3500 60  0000 C CNN
@@ -573,10 +573,10 @@ F 3 "" H 8150 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D23
+L discipline-pcb-rescue:D-Device D22
 U 1 1 5BDD4AF0
 P 7800 3700
-F 0 "D23" V 7846 3621 50  0000 R CNN
+F 0 "D22" V 7846 3621 50  0000 R CNN
 F 1 " " V 7755 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7800 3700 50  0001 C CNN
 F 3 "~" H 7800 3700 50  0001 C CNN
@@ -588,10 +588,10 @@ Wire Wire Line
 Wire Wire Line
 	7800 3500 7800 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW24
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW23
 U 1 1 5BDD4AF9
 P 8850 3500
-F 0 "SW24" H 8850 3733 60  0000 C CNN
+F 0 "SW23" H 8850 3733 60  0000 C CNN
 F 1 "KEYSW" H 8850 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 8850 3500 60  0001 C CNN
 F 3 "" H 8850 3500 60  0000 C CNN
@@ -599,10 +599,10 @@ F 3 "" H 8850 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D24
+L discipline-pcb-rescue:D-Device D23
 U 1 1 5BDD4B00
 P 8500 3700
-F 0 "D24" V 8546 3621 50  0000 R CNN
+F 0 "D23" V 8546 3621 50  0000 R CNN
 F 1 " " V 8455 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8500 3700 50  0001 C CNN
 F 3 "~" H 8500 3700 50  0001 C CNN
@@ -614,10 +614,10 @@ Wire Wire Line
 Wire Wire Line
 	8500 3500 8500 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW25
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW24
 U 1 1 5BDD4B09
 P 9550 3500
-F 0 "SW25" H 9550 3733 60  0000 C CNN
+F 0 "SW24" H 9550 3733 60  0000 C CNN
 F 1 "KEYSW" H 9550 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 9550 3500 60  0001 C CNN
 F 3 "" H 9550 3500 60  0000 C CNN
@@ -625,10 +625,10 @@ F 3 "" H 9550 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D25
+L discipline-pcb-rescue:D-Device D24
 U 1 1 5BDD4B10
 P 9200 3700
-F 0 "D25" V 9246 3621 50  0000 R CNN
+F 0 "D24" V 9246 3621 50  0000 R CNN
 F 1 " " V 9155 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9200 3700 50  0001 C CNN
 F 3 "~" H 9200 3700 50  0001 C CNN
@@ -640,10 +640,10 @@ Wire Wire Line
 Wire Wire Line
 	9200 3500 9200 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW26
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW25
 U 1 1 5BDD4B19
 P 10250 3500
-F 0 "SW26" H 10250 3733 60  0000 C CNN
+F 0 "SW25" H 10250 3733 60  0000 C CNN
 F 1 "KEYSW" H 10250 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10250 3500 60  0001 C CNN
 F 3 "" H 10250 3500 60  0000 C CNN
@@ -651,10 +651,10 @@ F 3 "" H 10250 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D26
+L discipline-pcb-rescue:D-Device D25
 U 1 1 5BDD4B20
 P 9900 3700
-F 0 "D26" V 9946 3621 50  0000 R CNN
+F 0 "D25" V 9946 3621 50  0000 R CNN
 F 1 " " V 9855 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9900 3700 50  0001 C CNN
 F 3 "~" H 9900 3700 50  0001 C CNN
@@ -666,10 +666,10 @@ Wire Wire Line
 Wire Wire Line
 	9900 3500 9900 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW27
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW26
 U 1 1 5BDD4B29
 P 10950 3500
-F 0 "SW27" H 10950 3733 60  0000 C CNN
+F 0 "SW26" H 10950 3733 60  0000 C CNN
 F 1 "KEYSW" H 10950 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10950 3500 60  0001 C CNN
 F 3 "" H 10950 3500 60  0000 C CNN
@@ -677,10 +677,10 @@ F 3 "" H 10950 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D27
+L discipline-pcb-rescue:D-Device D26
 U 1 1 5BDD4B30
 P 10600 3700
-F 0 "D27" V 10646 3621 50  0000 R CNN
+F 0 "D26" V 10646 3621 50  0000 R CNN
 F 1 " " V 10555 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10600 3700 50  0001 C CNN
 F 3 "~" H 10600 3700 50  0001 C CNN
@@ -692,10 +692,10 @@ Wire Wire Line
 Wire Wire Line
 	10600 3500 10600 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW28
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW27
 U 1 1 5BDD4B39
 P 11650 3500
-F 0 "SW28" H 11650 3733 60  0000 C CNN
+F 0 "SW27" H 11650 3733 60  0000 C CNN
 F 1 "KEYSW" H 11650 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 11650 3500 60  0001 C CNN
 F 3 "" H 11650 3500 60  0000 C CNN
@@ -703,10 +703,10 @@ F 3 "" H 11650 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D28
+L discipline-pcb-rescue:D-Device D27
 U 1 1 5BDD4B40
 P 11300 3700
-F 0 "D28" V 11346 3621 50  0000 R CNN
+F 0 "D27" V 11346 3621 50  0000 R CNN
 F 1 " " V 11255 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11300 3700 50  0001 C CNN
 F 3 "~" H 11300 3700 50  0001 C CNN
@@ -718,10 +718,10 @@ Wire Wire Line
 Wire Wire Line
 	11300 3500 11300 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW29
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW28
 U 1 1 5BDD4B49
 P 12350 3500
-F 0 "SW29" H 12350 3733 60  0000 C CNN
+F 0 "SW28" H 12350 3733 60  0000 C CNN
 F 1 "KEYSW" H 12350 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 12350 3500 60  0001 C CNN
 F 3 "" H 12350 3500 60  0000 C CNN
@@ -729,10 +729,10 @@ F 3 "" H 12350 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D29
+L discipline-pcb-rescue:D-Device D28
 U 1 1 5BDD4B50
 P 12000 3700
-F 0 "D29" V 12046 3621 50  0000 R CNN
+F 0 "D28" V 12046 3621 50  0000 R CNN
 F 1 " " V 11955 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12000 3700 50  0001 C CNN
 F 3 "~" H 12000 3700 50  0001 C CNN
@@ -744,10 +744,10 @@ Wire Wire Line
 Wire Wire Line
 	12000 3500 12000 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW30
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW29
 U 1 1 5BDD4B59
 P 13050 3500
-F 0 "SW30" H 13050 3733 60  0000 C CNN
+F 0 "SW29" H 13050 3733 60  0000 C CNN
 F 1 "KEYSW" H 13050 3400 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 13050 3500 60  0001 C CNN
 F 3 "" H 13050 3500 60  0000 C CNN
@@ -755,10 +755,10 @@ F 3 "" H 13050 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D30
+L discipline-pcb-rescue:D-Device D29
 U 1 1 5BDD4B60
 P 12700 3700
-F 0 "D30" V 12746 3621 50  0000 R CNN
+F 0 "D29" V 12746 3621 50  0000 R CNN
 F 1 " " V 12655 3621 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12700 3700 50  0001 C CNN
 F 3 "~" H 12700 3700 50  0001 C CNN
@@ -770,10 +770,10 @@ Wire Wire Line
 Wire Wire Line
 	12700 3500 12700 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW31
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW44
 U 1 1 5BE2E393
 P 3250 4650
-F 0 "SW31" H 3250 4883 60  0000 C CNN
+F 0 "SW44" H 3250 4883 60  0000 C CNN
 F 1 "KEYSW" H 3250 4550 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.75u_PCBNOSCREEN" H 3250 4650 60  0001 C CNN
 F 3 "" H 3250 4650 60  0000 C CNN
@@ -781,10 +781,10 @@ F 3 "" H 3250 4650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D31
+L discipline-pcb-rescue:D-Device D44
 U 1 1 5BE2E39A
 P 2900 4900
-F 0 "D31" V 2946 4821 50  0000 R CNN
+F 0 "D44" V 2946 4821 50  0000 R CNN
 F 1 " " V 2855 4821 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 4900 50  0001 C CNN
 F 3 "~" H 2900 4900 50  0001 C CNN
@@ -796,10 +796,10 @@ Wire Wire Line
 Wire Wire Line
 	2900 4650 2900 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW32
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW31
 U 1 1 5BE2E3A3
 P 3950 4100
-F 0 "SW32" H 3950 4333 60  0000 C CNN
+F 0 "SW31" H 3950 4333 60  0000 C CNN
 F 1 "KEYSW" H 3950 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 3950 4100 60  0001 C CNN
 F 3 "" H 3950 4100 60  0000 C CNN
@@ -807,10 +807,10 @@ F 3 "" H 3950 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D32
+L discipline-pcb-rescue:D-Device D31
 U 1 1 5BE2E3AA
 P 3600 4300
-F 0 "D32" V 3646 4221 50  0000 R CNN
+F 0 "D31" V 3646 4221 50  0000 R CNN
 F 1 " " V 3555 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3600 4300 50  0001 C CNN
 F 3 "~" H 3600 4300 50  0001 C CNN
@@ -822,10 +822,10 @@ Wire Wire Line
 Wire Wire Line
 	3600 4100 3600 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW33
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW32
 U 1 1 5BE2E3B3
 P 4650 4100
-F 0 "SW33" H 4650 4333 60  0000 C CNN
+F 0 "SW32" H 4650 4333 60  0000 C CNN
 F 1 "KEYSW" H 4650 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 4650 4100 60  0001 C CNN
 F 3 "" H 4650 4100 60  0000 C CNN
@@ -833,10 +833,10 @@ F 3 "" H 4650 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D33
+L discipline-pcb-rescue:D-Device D32
 U 1 1 5BE2E3BA
 P 4300 4300
-F 0 "D33" V 4346 4221 50  0000 R CNN
+F 0 "D32" V 4346 4221 50  0000 R CNN
 F 1 " " V 4255 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4300 4300 50  0001 C CNN
 F 3 "~" H 4300 4300 50  0001 C CNN
@@ -848,10 +848,10 @@ Wire Wire Line
 Wire Wire Line
 	4300 4100 4300 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW34
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW33
 U 1 1 5BE2E3C3
 P 5350 4100
-F 0 "SW34" H 5350 4333 60  0000 C CNN
+F 0 "SW33" H 5350 4333 60  0000 C CNN
 F 1 "KEYSW" H 5350 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 5350 4100 60  0001 C CNN
 F 3 "" H 5350 4100 60  0000 C CNN
@@ -859,10 +859,10 @@ F 3 "" H 5350 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D34
+L discipline-pcb-rescue:D-Device D33
 U 1 1 5BE2E3CA
 P 5000 4300
-F 0 "D34" V 5046 4221 50  0000 R CNN
+F 0 "D33" V 5046 4221 50  0000 R CNN
 F 1 " " V 4955 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5000 4300 50  0001 C CNN
 F 3 "~" H 5000 4300 50  0001 C CNN
@@ -874,10 +874,10 @@ Wire Wire Line
 Wire Wire Line
 	5000 4100 5000 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW35
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW34
 U 1 1 5BE2E3D3
 P 6050 4100
-F 0 "SW35" H 6050 4333 60  0000 C CNN
+F 0 "SW34" H 6050 4333 60  0000 C CNN
 F 1 "KEYSW" H 6050 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 6050 4100 60  0001 C CNN
 F 3 "" H 6050 4100 60  0000 C CNN
@@ -885,10 +885,10 @@ F 3 "" H 6050 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D35
+L discipline-pcb-rescue:D-Device D34
 U 1 1 5BE2E3DA
 P 5700 4300
-F 0 "D35" V 5746 4221 50  0000 R CNN
+F 0 "D34" V 5746 4221 50  0000 R CNN
 F 1 " " V 5655 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5700 4300 50  0001 C CNN
 F 3 "~" H 5700 4300 50  0001 C CNN
@@ -900,10 +900,10 @@ Wire Wire Line
 Wire Wire Line
 	5700 4100 5700 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW36
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW35
 U 1 1 5BE2E3E3
 P 6750 4100
-F 0 "SW36" H 6750 4333 60  0000 C CNN
+F 0 "SW35" H 6750 4333 60  0000 C CNN
 F 1 "KEYSW" H 6750 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 6750 4100 60  0001 C CNN
 F 3 "" H 6750 4100 60  0000 C CNN
@@ -911,10 +911,10 @@ F 3 "" H 6750 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D36
+L discipline-pcb-rescue:D-Device D35
 U 1 1 5BE2E3EA
 P 6400 4300
-F 0 "D36" V 6446 4221 50  0000 R CNN
+F 0 "D35" V 6446 4221 50  0000 R CNN
 F 1 " " V 6355 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6400 4300 50  0001 C CNN
 F 3 "~" H 6400 4300 50  0001 C CNN
@@ -926,10 +926,10 @@ Wire Wire Line
 Wire Wire Line
 	6400 4100 6400 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW37
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW36
 U 1 1 5BE2E3F3
 P 7450 4100
-F 0 "SW37" H 7450 4333 60  0000 C CNN
+F 0 "SW36" H 7450 4333 60  0000 C CNN
 F 1 "KEYSW" H 7450 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 7450 4100 60  0001 C CNN
 F 3 "" H 7450 4100 60  0000 C CNN
@@ -937,10 +937,10 @@ F 3 "" H 7450 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D37
+L discipline-pcb-rescue:D-Device D36
 U 1 1 5BE2E3FA
 P 7100 4300
-F 0 "D37" V 7146 4221 50  0000 R CNN
+F 0 "D36" V 7146 4221 50  0000 R CNN
 F 1 " " V 7055 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7100 4300 50  0001 C CNN
 F 3 "~" H 7100 4300 50  0001 C CNN
@@ -952,10 +952,10 @@ Wire Wire Line
 Wire Wire Line
 	7100 4100 7100 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW38
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW37
 U 1 1 5BE2E403
 P 8150 4100
-F 0 "SW38" H 8150 4333 60  0000 C CNN
+F 0 "SW37" H 8150 4333 60  0000 C CNN
 F 1 "KEYSW" H 8150 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 8150 4100 60  0001 C CNN
 F 3 "" H 8150 4100 60  0000 C CNN
@@ -963,10 +963,10 @@ F 3 "" H 8150 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D38
+L discipline-pcb-rescue:D-Device D37
 U 1 1 5BE2E40A
 P 7800 4300
-F 0 "D38" V 7846 4221 50  0000 R CNN
+F 0 "D37" V 7846 4221 50  0000 R CNN
 F 1 " " V 7755 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7800 4300 50  0001 C CNN
 F 3 "~" H 7800 4300 50  0001 C CNN
@@ -978,10 +978,10 @@ Wire Wire Line
 Wire Wire Line
 	7800 4100 7800 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW39
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW38
 U 1 1 5BE2E413
 P 8850 4100
-F 0 "SW39" H 8850 4333 60  0000 C CNN
+F 0 "SW38" H 8850 4333 60  0000 C CNN
 F 1 "KEYSW" H 8850 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 8850 4100 60  0001 C CNN
 F 3 "" H 8850 4100 60  0000 C CNN
@@ -989,10 +989,10 @@ F 3 "" H 8850 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D39
+L discipline-pcb-rescue:D-Device D38
 U 1 1 5BE2E41A
 P 8500 4300
-F 0 "D39" V 8546 4221 50  0000 R CNN
+F 0 "D38" V 8546 4221 50  0000 R CNN
 F 1 " " V 8455 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8500 4300 50  0001 C CNN
 F 3 "~" H 8500 4300 50  0001 C CNN
@@ -1004,10 +1004,10 @@ Wire Wire Line
 Wire Wire Line
 	8500 4100 8500 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW40
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW39
 U 1 1 5BE2E423
 P 9550 4100
-F 0 "SW40" H 9550 4333 60  0000 C CNN
+F 0 "SW39" H 9550 4333 60  0000 C CNN
 F 1 "KEYSW" H 9550 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 9550 4100 60  0001 C CNN
 F 3 "" H 9550 4100 60  0000 C CNN
@@ -1015,10 +1015,10 @@ F 3 "" H 9550 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D40
+L discipline-pcb-rescue:D-Device D39
 U 1 1 5BE2E42A
 P 9200 4300
-F 0 "D40" V 9246 4221 50  0000 R CNN
+F 0 "D39" V 9246 4221 50  0000 R CNN
 F 1 " " V 9155 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9200 4300 50  0001 C CNN
 F 3 "~" H 9200 4300 50  0001 C CNN
@@ -1030,10 +1030,10 @@ Wire Wire Line
 Wire Wire Line
 	9200 4100 9200 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW41
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW40
 U 1 1 5BE2E433
 P 10250 4100
-F 0 "SW41" H 10250 4333 60  0000 C CNN
+F 0 "SW40" H 10250 4333 60  0000 C CNN
 F 1 "KEYSW" H 10250 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10250 4100 60  0001 C CNN
 F 3 "" H 10250 4100 60  0000 C CNN
@@ -1041,10 +1041,10 @@ F 3 "" H 10250 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D41
+L discipline-pcb-rescue:D-Device D40
 U 1 1 5BE2E43A
 P 9900 4300
-F 0 "D41" V 9946 4221 50  0000 R CNN
+F 0 "D40" V 9946 4221 50  0000 R CNN
 F 1 " " V 9855 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9900 4300 50  0001 C CNN
 F 3 "~" H 9900 4300 50  0001 C CNN
@@ -1056,10 +1056,10 @@ Wire Wire Line
 Wire Wire Line
 	9900 4100 9900 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW42
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW41
 U 1 1 5BE2E443
 P 10950 4100
-F 0 "SW42" H 10950 4333 60  0000 C CNN
+F 0 "SW41" H 10950 4333 60  0000 C CNN
 F 1 "KEYSW" H 10950 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10950 4100 60  0001 C CNN
 F 3 "" H 10950 4100 60  0000 C CNN
@@ -1067,10 +1067,10 @@ F 3 "" H 10950 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D42
+L discipline-pcb-rescue:D-Device D41
 U 1 1 5BE2E44A
 P 10600 4300
-F 0 "D42" V 10646 4221 50  0000 R CNN
+F 0 "D41" V 10646 4221 50  0000 R CNN
 F 1 " " V 10555 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10600 4300 50  0001 C CNN
 F 3 "~" H 10600 4300 50  0001 C CNN
@@ -1082,10 +1082,10 @@ Wire Wire Line
 Wire Wire Line
 	10600 4100 10600 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW43
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW42
 U 1 1 5BE2E453
 P 12350 4100
-F 0 "SW43" H 12350 4333 60  0000 C CNN
+F 0 "SW42" H 12350 4333 60  0000 C CNN
 F 1 "KEYSW" H 12350 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_2.25u_PCBNOSCREEN" H 12350 4100 60  0001 C CNN
 F 3 "" H 12350 4100 60  0000 C CNN
@@ -1093,10 +1093,10 @@ F 3 "" H 12350 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D43
+L discipline-pcb-rescue:D-Device D42
 U 1 1 5BE2E45A
 P 12000 4300
-F 0 "D43" V 12046 4221 50  0000 R CNN
+F 0 "D42" V 12046 4221 50  0000 R CNN
 F 1 " " V 11955 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12000 4300 50  0001 C CNN
 F 3 "~" H 12000 4300 50  0001 C CNN
@@ -1108,10 +1108,10 @@ Wire Wire Line
 Wire Wire Line
 	12000 4100 12000 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW44
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW43
 U 1 1 5BE2E463
 P 13050 4100
-F 0 "SW44" H 13050 4333 60  0000 C CNN
+F 0 "SW43" H 13050 4333 60  0000 C CNN
 F 1 "KEYSW" H 13050 4000 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 13050 4100 60  0001 C CNN
 F 3 "" H 13050 4100 60  0000 C CNN
@@ -1119,10 +1119,10 @@ F 3 "" H 13050 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D44
+L discipline-pcb-rescue:D-Device D43
 U 1 1 5BE2E46A
 P 12700 4300
-F 0 "D44" V 12746 4221 50  0000 R CNN
+F 0 "D43" V 12746 4221 50  0000 R CNN
 F 1 " " V 12655 4221 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12700 4300 50  0001 C CNN
 F 3 "~" H 12700 4300 50  0001 C CNN
@@ -1134,10 +1134,10 @@ Wire Wire Line
 Wire Wire Line
 	12700 4100 12700 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW45
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW59
 U 1 1 5BE34833
 P 3250 5250
-F 0 "SW45" H 3250 5483 60  0000 C CNN
+F 0 "SW59" H 3250 5483 60  0000 C CNN
 F 1 "KEYSW" H 3250 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_2.25u_PCBNOSCREEN" H 3250 5250 60  0001 C CNN
 F 3 "" H 3250 5250 60  0000 C CNN
@@ -1145,10 +1145,10 @@ F 3 "" H 3250 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D45
+L discipline-pcb-rescue:D-Device D59
 U 1 1 5BE3483A
 P 2900 5450
-F 0 "D45" V 2946 5371 50  0000 R CNN
+F 0 "D59" V 2946 5371 50  0000 R CNN
 F 1 " " V 2855 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 5450 50  0001 C CNN
 F 3 "~" H 2900 5450 50  0001 C CNN
@@ -1498,10 +1498,10 @@ Wire Wire Line
 Wire Wire Line
 	12700 4700 12700 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW59
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW60
 U 1 1 5BE64C5B
 P 3950 5250
-F 0 "SW59" H 3950 5483 60  0000 C CNN
+F 0 "SW60" H 3950 5483 60  0000 C CNN
 F 1 "KEYSW" H 3950 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 3950 5250 60  0001 C CNN
 F 3 "" H 3950 5250 60  0000 C CNN
@@ -1511,10 +1511,10 @@ $EndComp
 Wire Wire Line
 	3650 5250 3600 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW60
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW61
 U 1 1 5BE64C6A
 P 4650 5250
-F 0 "SW60" H 4650 5483 60  0000 C CNN
+F 0 "SW61" H 4650 5483 60  0000 C CNN
 F 1 "KEYSW" H 4650 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 4650 5250 60  0001 C CNN
 F 3 "" H 4650 5250 60  0000 C CNN
@@ -1522,10 +1522,10 @@ F 3 "" H 4650 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D60
+L discipline-pcb-rescue:D-Device D61
 U 1 1 5BE64C71
 P 4300 5450
-F 0 "D60" V 4346 5371 50  0000 R CNN
+F 0 "D61" V 4346 5371 50  0000 R CNN
 F 1 " " V 4255 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4300 5450 50  0001 C CNN
 F 3 "~" H 4300 5450 50  0001 C CNN
@@ -1537,10 +1537,10 @@ Wire Wire Line
 Wire Wire Line
 	4300 5250 4300 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW61
+L discipline-pcb-rescue:KEYSW-keyboard_parts S62
 U 1 1 5BE64C7A
 P 5350 5250
-F 0 "SW61" H 5350 5483 60  0000 C CNN
+F 0 "S62" H 5350 5483 60  0000 C CNN
 F 1 "KEYSW" H 5350 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 5350 5250 60  0001 C CNN
 F 3 "" H 5350 5250 60  0000 C CNN
@@ -1548,10 +1548,10 @@ F 3 "" H 5350 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D61
+L discipline-pcb-rescue:D-Device D62
 U 1 1 5BE64C81
 P 5000 5450
-F 0 "D61" V 5046 5371 50  0000 R CNN
+F 0 "D62" V 5046 5371 50  0000 R CNN
 F 1 " " V 4955 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5000 5450 50  0001 C CNN
 F 3 "~" H 5000 5450 50  0001 C CNN
@@ -1563,10 +1563,10 @@ Wire Wire Line
 Wire Wire Line
 	5000 5250 5000 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW62
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW63
 U 1 1 5BE7F31E
 P 7450 5250
-F 0 "SW62" H 7450 5483 60  0000 C CNN
+F 0 "SW63" H 7450 5483 60  0000 C CNN
 F 1 "KEYSW" H 7450 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 7450 5250 60  0001 C CNN
 F 3 "" H 7450 5250 60  0000 C CNN
@@ -1574,10 +1574,10 @@ F 3 "" H 7450 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D62
+L discipline-pcb-rescue:D-Device D63
 U 1 1 5BE7F325
 P 7100 5450
-F 0 "D62" V 7146 5371 50  0000 R CNN
+F 0 "D63" V 7146 5371 50  0000 R CNN
 F 1 " " V 7055 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7100 5450 50  0001 C CNN
 F 3 "~" H 7100 5450 50  0001 C CNN
@@ -1589,10 +1589,10 @@ Wire Wire Line
 Wire Wire Line
 	7100 5250 7100 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW63
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW64
 U 1 1 5BE881B1
 P 9550 5250
-F 0 "SW63" H 9550 5483 60  0000 C CNN
+F 0 "SW64" H 9550 5483 60  0000 C CNN
 F 1 "KEYSW" H 9550 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 9550 5250 60  0001 C CNN
 F 3 "" H 9550 5250 60  0000 C CNN
@@ -1600,10 +1600,10 @@ F 3 "" H 9550 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D63
+L discipline-pcb-rescue:D-Device D64
 U 1 1 5BE881B8
 P 9200 5450
-F 0 "D63" V 9246 5371 50  0000 R CNN
+F 0 "D64" V 9246 5371 50  0000 R CNN
 F 1 " " V 9155 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9200 5450 50  0001 C CNN
 F 3 "~" H 9200 5450 50  0001 C CNN
@@ -1615,10 +1615,10 @@ Wire Wire Line
 Wire Wire Line
 	9200 5250 9200 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW64
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW65
 U 1 1 5BE881C1
 P 10250 5250
-F 0 "SW64" H 10250 5483 60  0000 C CNN
+F 0 "SW65" H 10250 5483 60  0000 C CNN
 F 1 "KEYSW" H 10250 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 10250 5250 60  0001 C CNN
 F 3 "" H 10250 5250 60  0000 C CNN
@@ -1626,10 +1626,10 @@ F 3 "" H 10250 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D64
+L discipline-pcb-rescue:D-Device D65
 U 1 1 5BE881C8
 P 9900 5450
-F 0 "D64" V 9946 5371 50  0000 R CNN
+F 0 "D65" V 9946 5371 50  0000 R CNN
 F 1 " " V 9855 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9900 5450 50  0001 C CNN
 F 3 "~" H 9900 5450 50  0001 C CNN
@@ -1641,10 +1641,10 @@ Wire Wire Line
 Wire Wire Line
 	9900 5250 9900 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW65
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW67
 U 1 1 5BE881D1
 P 11650 5250
-F 0 "SW65" H 11650 5483 60  0000 C CNN
+F 0 "SW67" H 11650 5483 60  0000 C CNN
 F 1 "KEYSW" H 11650 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 11650 5250 60  0001 C CNN
 F 3 "" H 11650 5250 60  0000 C CNN
@@ -1652,10 +1652,10 @@ F 3 "" H 11650 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D65
+L discipline-pcb-rescue:D-Device D67
 U 1 1 5BE881D8
 P 11300 5450
-F 0 "D65" V 11346 5371 50  0000 R CNN
+F 0 "D67" V 11346 5371 50  0000 R CNN
 F 1 " " V 11255 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11300 5450 50  0001 C CNN
 F 3 "~" H 11300 5450 50  0001 C CNN
@@ -1667,10 +1667,10 @@ Wire Wire Line
 Wire Wire Line
 	11300 5250 11300 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW66
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW68
 U 1 1 5BE881E1
 P 12350 5250
-F 0 "SW66" H 12350 5483 60  0000 C CNN
+F 0 "SW68" H 12350 5483 60  0000 C CNN
 F 1 "KEYSW" H 12350 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 12350 5250 60  0001 C CNN
 F 3 "" H 12350 5250 60  0000 C CNN
@@ -1678,10 +1678,10 @@ F 3 "" H 12350 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D66
+L discipline-pcb-rescue:D-Device D68
 U 1 1 5BE881E8
 P 12000 5450
-F 0 "D66" V 12046 5371 50  0000 R CNN
+F 0 "D68" V 12046 5371 50  0000 R CNN
 F 1 " " V 11955 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12000 5450 50  0001 C CNN
 F 3 "~" H 12000 5450 50  0001 C CNN
@@ -1693,10 +1693,10 @@ Wire Wire Line
 Wire Wire Line
 	12000 5250 12000 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW67
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW69
 U 1 1 5BE881F1
 P 13050 5250
-F 0 "SW67" H 13050 5483 60  0000 C CNN
+F 0 "SW69" H 13050 5483 60  0000 C CNN
 F 1 "KEYSW" H 13050 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 13050 5250 60  0001 C CNN
 F 3 "" H 13050 5250 60  0000 C CNN
@@ -1704,10 +1704,10 @@ F 3 "" H 13050 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D67
+L discipline-pcb-rescue:D-Device D69
 U 1 1 5BE881F8
 P 12700 5450
-F 0 "D67" V 12746 5371 50  0000 R CNN
+F 0 "D69" V 12746 5371 50  0000 R CNN
 F 1 " " V 12655 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12700 5450 50  0001 C CNN
 F 3 "~" H 12700 5450 50  0001 C CNN
@@ -1966,10 +1966,10 @@ Text Notes 13000 11050 0    50   ~ 0
 Text Notes 12250 10900 0    50   ~ 0
 DISCIPLINE
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW68
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW66
 U 1 1 5D067388
 P 10950 5250
-F 0 "SW68" H 10950 5483 60  0000 C CNN
+F 0 "SW66" H 10950 5483 60  0000 C CNN
 F 1 "KEYSW" H 10950 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 10950 5250 60  0001 C CNN
 F 3 "" H 10950 5250 60  0000 C CNN
@@ -1977,10 +1977,10 @@ F 3 "" H 10950 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D68
+L discipline-pcb-rescue:D-Device D66
 U 1 1 5D06738E
 P 10600 5450
-F 0 "D68" V 10646 5371 50  0000 R CNN
+F 0 "D66" V 10646 5371 50  0000 R CNN
 F 1 " " V 10555 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10600 5450 50  0001 C CNN
 F 3 "~" H 10600 5450 50  0001 C CNN
@@ -2145,10 +2145,10 @@ F 3 "" H 2975 7750 50  0001 C CNN
 $EndComp
 Connection ~ 2975 7750
 $Comp
-L discipline-pcb-rescue:D_Zener_Small-Device D69
+L discipline-pcb-rescue:D_Zener_Small-Device D70
 U 1 1 5D184B7B
 P 6600 8000
-F 0 "D69" V 6500 7950 39  0000 R CNN
+F 0 "D70" V 6500 7950 39  0000 R CNN
 F 1 "3.6V" V 6550 7950 39  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" V 6600 8000 50  0001 C CNN
 F 3 "~" V 6600 8000 50  0001 C CNN
@@ -2643,10 +2643,10 @@ Connection ~ 13350 4700
 Wire Wire Line
 	13350 4700 13350 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW69
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW44-2
 U 1 1 5DC1DEA4
 P 2350 4650
-F 0 "SW69" H 2350 4883 60  0000 C CNN
+F 0 "SW44-2" H 2350 4883 60  0000 C CNN
 F 1 "KEYSW" H 2350 4550 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 2350 4650 60  0001 C CNN
 F 3 "" H 2350 4650 60  0000 C CNN
@@ -2670,10 +2670,10 @@ Wire Wire Line
 Wire Wire Line
 	2050 4725 2050 4650
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW70
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW60-2
 U 1 1 5DC5E2A2
 P 3950 5900
-F 0 "SW70" H 3950 6133 60  0000 C CNN
+F 0 "SW60-2" H 3950 6133 60  0000 C CNN
 F 1 "KEYSW" H 3950 5800 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 3950 5900 60  0001 C CNN
 F 3 "" H 3950 5900 60  0000 C CNN
@@ -2683,10 +2683,10 @@ $EndComp
 Wire Wire Line
 	4250 5900 4250 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW71
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW62-2
 U 1 1 5DC9EC8E
 P 5350 5925
-F 0 "SW71" H 5350 6158 60  0000 C CNN
+F 0 "SW62-2" H 5350 6158 60  0000 C CNN
 F 1 "KEYSW" H 5350 5825 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 5350 5925 60  0001 C CNN
 F 3 "" H 5350 5925 60  0000 C CNN
@@ -2700,10 +2700,10 @@ Wire Wire Line
 	5650 5925 5650 5250
 Connection ~ 5650 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW72
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW63-2
 U 1 1 5DCE7558
 P 7450 5925
-F 0 "SW72" H 7450 6158 60  0000 C CNN
+F 0 "SW63-2" H 7450 6158 60  0000 C CNN
 F 1 "KEYSW" H 7450 5825 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 7450 5925 60  0001 C CNN
 F 3 "" H 7450 5925 60  0000 C CNN
@@ -2717,10 +2717,10 @@ Wire Wire Line
 	7750 5925 7750 5250
 Connection ~ 7750 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW73
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW64-2
 U 1 1 5DD3207D
 P 9550 5900
-F 0 "SW73" H 9550 6133 60  0000 C CNN
+F 0 "SW64-2" H 9550 6133 60  0000 C CNN
 F 1 "KEYSW" H 9550 5800 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 9550 5900 60  0001 C CNN
 F 3 "" H 9550 5900 60  0000 C CNN
@@ -2734,10 +2734,10 @@ Wire Wire Line
 	9850 5900 9850 5250
 Connection ~ 9850 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW74
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW65-2
 U 1 1 5DD72960
 P 10250 5900
-F 0 "SW74" H 10250 6133 60  0000 C CNN
+F 0 "SW65-2" H 10250 6133 60  0000 C CNN
 F 1 "KEYSW" H 10250 5800 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 10250 5900 60  0001 C CNN
 F 3 "" H 10250 5900 60  0000 C CNN
@@ -2763,10 +2763,10 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontr
 $EndComp
 Connection ~ 4075 6700
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW75
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW45
 U 1 1 5E1101F9
 P 3950 4700
-F 0 "SW75" H 3950 4933 60  0000 C CNN
+F 0 "SW45" H 3950 4933 60  0000 C CNN
 F 1 "KEYSW" H 3950 4600 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 3950 4700 60  0001 C CNN
 F 3 "" H 3950 4700 60  0000 C CNN
@@ -2776,10 +2776,10 @@ $EndComp
 Wire Wire Line
 	4950 4700 4950 5250
 $Comp
-L discipline-pcb-rescue:D-Device D75
+L discipline-pcb-rescue:D-Device D45
 U 1 1 5E12480E
 P 3650 4900
-F 0 "D75" V 3696 4821 50  0000 R CNN
+F 0 "D45" V 3696 4821 50  0000 R CNN
 F 1 " " V 3605 4821 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3650 4900 50  0001 C CNN
 F 3 "~" H 3650 4900 50  0001 C CNN
@@ -2787,10 +2787,10 @@ F 3 "~" H 3650 4900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW76
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW28-2
 U 1 1 5E1BCA3A
 P 12350 3625
-F 0 "SW76" H 12350 3858 60  0000 C CNN
+F 0 "SW28-2" H 12350 3858 60  0000 C CNN
 F 1 "KEYSW" H 12350 3525 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_ISOEnter_PCB_ReversedStabilizer" H 12350 3625 60  0001 C CNN
 F 3 "" H 12350 3625 60  0000 C CNN
@@ -2804,10 +2804,10 @@ Wire Wire Line
 	12050 3625 12050 3500
 Connection ~ 12050 3500
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW77
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW42-2
 U 1 1 5E1F0136
 P 12350 4200
-F 0 "SW77" H 12350 4433 60  0000 C CNN
+F 0 "SW42-2" H 12350 4433 60  0000 C CNN
 F 1 "KEYSW" H 12350 4100 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 12350 4200 60  0001 C CNN
 F 3 "" H 12350 4200 60  0000 C CNN
@@ -2821,10 +2821,10 @@ Wire Wire Line
 	12050 4200 12050 4100
 Connection ~ 12050 4100
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW78
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW59-2
 U 1 1 5E225BFB
 P 2375 5250
-F 0 "SW78" H 2375 5483 60  0000 C CNN
+F 0 "SW59-2" H 2375 5483 60  0000 C CNN
 F 1 "KEYSW" H 2375 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 2375 5250 60  0001 C CNN
 F 3 "" H 2375 5250 60  0000 C CNN
@@ -2942,10 +2942,10 @@ Connection ~ 6700 7800
 Wire Wire Line
 	6700 7800 7000 7800
 $Comp
-L discipline-pcb-rescue:D_Zener_Small-Device D70
+L discipline-pcb-rescue:D_Zener_Small-Device D71
 U 1 1 5D184D75
 P 6700 8000
-F 0 "D70" V 6600 8050 39  0000 L CNN
+F 0 "D71" V 6600 8050 39  0000 L CNN
 F 1 "3.6V" V 6650 8050 39  0000 L CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" V 6700 8000 50  0001 C CNN
 F 3 "~" V 6700 8000 50  0001 C CNN
@@ -2980,10 +2980,10 @@ Wire Wire Line
 Wire Wire Line
 	2900 2950 2900 3000
 $Comp
-L discipline-pcb-rescue:D-Device D59
+L discipline-pcb-rescue:D-Device D60
 U 1 1 5BE64C62
 P 3600 5450
-F 0 "D59" V 3646 5371 50  0000 R CNN
+F 0 "D60" V 3646 5371 50  0000 R CNN
 F 1 " " V 3555 5371 50  0000 R CNN
 F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3600 5450 50  0001 C CNN
 F 3 "~" H 3600 5450 50  0001 C CNN
@@ -3049,10 +3049,10 @@ Wire Wire Line
 Wire Wire Line
 	4950 2900 4950 2950
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW3
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW2
 U 1 1 5BDB4A41
 P 4650 2950
-F 0 "SW3" H 4650 3183 60  0000 C CNN
+F 0 "SW2" H 4650 3183 60  0000 C CNN
 F 1 "KEYSW" H 4650 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 4650 2950 60  0001 C CNN
 F 3 "" H 4650 2950 60  0000 C CNN
@@ -3088,10 +3088,10 @@ Wire Wire Line
 Wire Wire Line
 	3650 2950 3600 2950
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW2
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW1
 U 1 1 5BDB3743
 P 3950 2950
-F 0 "SW2" H 3950 3183 60  0000 C CNN
+F 0 "SW1" H 3950 3183 60  0000 C CNN
 F 1 "KEYSW" H 3950 2850 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 3950 2950 60  0001 C CNN
 F 3 "" H 3950 2950 60  0000 C CNN

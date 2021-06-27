@@ -2319,7 +2319,7 @@ Text GLabel 4575 8900 2    50   Input ~ 0
 row4
 Text GLabel 4575 10300 2    50   Input ~ 0
 row3
-Text GLabel 4575 8800 2    50   Input ~ 0
+Text GLabel 4575 10400 2    50   Input ~ 0
 row0
 Text GLabel 4575 7000 2    50   Input ~ 0
 col0
@@ -2643,10 +2643,10 @@ Connection ~ 13350 4700
 Wire Wire Line
 	13350 4700 13350 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW69
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW31A
 U 1 1 5DC1DEA4
 P 2350 4650
-F 0 "SW69" H 2350 4883 60  0000 C CNN
+F 0 "SW31A" H 2350 4883 60  0000 C CNN
 F 1 "KEYSW" H 2350 4550 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 2350 4650 60  0001 C CNN
 F 3 "" H 2350 4650 60  0000 C CNN
@@ -2670,10 +2670,10 @@ Wire Wire Line
 Wire Wire Line
 	2050 4725 2050 4650
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW70
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW59A
 U 1 1 5DC5E2A2
 P 3950 5900
-F 0 "SW70" H 3950 6133 60  0000 C CNN
+F 0 "SW59A" H 3950 6133 60  0000 C CNN
 F 1 "KEYSW" H 3950 5800 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 3950 5900 60  0001 C CNN
 F 3 "" H 3950 5900 60  0000 C CNN
@@ -2683,10 +2683,10 @@ $EndComp
 Wire Wire Line
 	4250 5900 4250 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW71
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW61A
 U 1 1 5DC9EC8E
 P 5350 5925
-F 0 "SW71" H 5350 6158 60  0000 C CNN
+F 0 "SW61A" H 5350 6158 60  0000 C CNN
 F 1 "KEYSW" H 5350 5825 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 5350 5925 60  0001 C CNN
 F 3 "" H 5350 5925 60  0000 C CNN
@@ -2700,10 +2700,10 @@ Wire Wire Line
 	5650 5925 5650 5250
 Connection ~ 5650 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW72
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW62A
 U 1 1 5DCE7558
 P 7450 5925
-F 0 "SW72" H 7450 6158 60  0000 C CNN
+F 0 "SW62A" H 7450 6158 60  0000 C CNN
 F 1 "KEYSW" H 7450 5825 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 7450 5925 60  0001 C CNN
 F 3 "" H 7450 5925 60  0000 C CNN
@@ -2717,10 +2717,10 @@ Wire Wire Line
 	7750 5925 7750 5250
 Connection ~ 7750 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW73
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW63A
 U 1 1 5DD3207D
 P 9550 5900
-F 0 "SW73" H 9550 6133 60  0000 C CNN
+F 0 "SW63A" H 9550 6133 60  0000 C CNN
 F 1 "KEYSW" H 9550 5800 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 9550 5900 60  0001 C CNN
 F 3 "" H 9550 5900 60  0000 C CNN
@@ -2734,10 +2734,10 @@ Wire Wire Line
 	9850 5900 9850 5250
 Connection ~ 9850 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW74
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW64A
 U 1 1 5DD72960
 P 10250 5900
-F 0 "SW74" H 10250 6133 60  0000 C CNN
+F 0 "SW64A" H 10250 6133 60  0000 C CNN
 F 1 "KEYSW" H 10250 5800 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN" H 10250 5900 60  0001 C CNN
 F 3 "" H 10250 5900 60  0000 C CNN
@@ -2787,10 +2787,10 @@ F 3 "~" H 3650 4900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW76
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW29A
 U 1 1 5E1BCA3A
 P 12350 3625
-F 0 "SW76" H 12350 3858 60  0000 C CNN
+F 0 "SW29A" H 12350 3858 60  0000 C CNN
 F 1 "KEYSW" H 12350 3525 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_ISOEnter_PCB_ReversedStabilizer" H 12350 3625 60  0001 C CNN
 F 3 "" H 12350 3625 60  0000 C CNN
@@ -2804,10 +2804,10 @@ Wire Wire Line
 	12050 3625 12050 3500
 Connection ~ 12050 3500
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW77
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW43A
 U 1 1 5E1F0136
 P 12350 4200
-F 0 "SW77" H 12350 4433 60  0000 C CNN
+F 0 "SW43A" H 12350 4433 60  0000 C CNN
 F 1 "KEYSW" H 12350 4100 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 12350 4200 60  0001 C CNN
 F 3 "" H 12350 4200 60  0000 C CNN
@@ -2821,10 +2821,10 @@ Wire Wire Line
 	12050 4200 12050 4100
 Connection ~ 12050 4100
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW78
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW45A
 U 1 1 5E225BFB
 P 2375 5250
-F 0 "SW78" H 2375 5483 60  0000 C CNN
+F 0 "SW45A" H 2375 5483 60  0000 C CNN
 F 1 "KEYSW" H 2375 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 2375 5250 60  0001 C CNN
 F 3 "" H 2375 5250 60  0000 C CNN
@@ -3104,7 +3104,7 @@ Text GLabel 4575 8300 2    50   Input ~ 0
 col9
 Text Label 3900 3100 0    50   ~ 0
 col0
-Text GLabel 4575 10400 2    50   Input ~ 0
+Text GLabel 4575 8800 2    50   Input ~ 0
 row1
 Text GLabel 4575 10200 2    50   Input ~ 0
 row2
