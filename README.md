@@ -16,6 +16,17 @@ If you have built upon this work and have changed the design in a significant wa
 
 **[Optional High Profile Lasercut Acrylic Case](./acrylic-case)**
 
+
+# Keyboard Layout Editor
+http://www.keyboard-layout-editor.com/#/
+```
+[{a:7},"esc"],
+["`","1","2","3","4","5","6","7","8","9","0","-","=",{w:2},"backspace","home"],
+[{w:1.5},"tab","q","w","e","r","t","y","u","i","o","p","[","]",{w:1.5},"\\","pgup"],
+[{w:1.75},"cap","a","s","d","f","g","h","j","k","l",";","'",{w:2.25},"enter","pgdn"],
+[{w:2.25},"shift","z","x","c","v","b","n","m",",",".","/",{w:1.75},"shift","up","end"],
+[{w:1.25},"ctrl",{w:1.25},"win",{w:1.25},"alt",{w:6.25},"","alt","fn","ctrl","left","down","right"]
+```
 ![discipline](./doc/images/discipline.jpeg)
 ![](./doc/images/discipline-black.jpeg)
 ![](./doc/images/discipline-bottom.jpeg)
