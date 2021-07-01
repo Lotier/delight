@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW15
+L delight-pcb-rescue:KEYSW-keyboard_parts SW15
 U 1 1 5BDAA9A5
 P 3250 3500
 F 0 "SW15" H 3250 3733 60  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 3250 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D15
+L delight-pcb-rescue:D-Device D15
 U 1 1 5BDAAA52
 P 2900 3700
 F 0 "D15" V 2946 3621 50  0000 R CNN
@@ -40,7 +40,7 @@ Wire Wire Line
 Wire Wire Line
 	2900 3500 2900 3550
 $Comp
-L discipline-pcb-rescue:D-Device D1
+L delight-pcb-rescue:D-Device D1
 U 1 1 5BDB374A
 P 3600 3150
 F 0 "D1" V 3646 3071 50  0000 R CNN
@@ -53,7 +53,7 @@ $EndComp
 Wire Wire Line
 	3600 2950 3600 3000
 $Comp
-L discipline-pcb-rescue:D-Device D2
+L delight-pcb-rescue:D-Device D2
 U 1 1 5BDB4A48
 P 4300 3150
 F 0 "D2" V 4346 3071 50  0000 R CNN
@@ -68,7 +68,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 2950 4300 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW3
+L delight-pcb-rescue:KEYSW-keyboard_parts SW3
 U 1 1 5BDB5E7B
 P 5350 2950
 F 0 "SW3" H 5350 3183 60  0000 C CNN
@@ -79,7 +79,7 @@ F 3 "" H 5350 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D3
+L delight-pcb-rescue:D-Device D3
 U 1 1 5BDB5E82
 P 5000 3150
 F 0 "D3" V 5046 3071 50  0000 R CNN
@@ -94,7 +94,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 2950 5000 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW4
+L delight-pcb-rescue:KEYSW-keyboard_parts SW4
 U 1 1 5BDB746A
 P 6050 2950
 F 0 "SW4" H 6050 3183 60  0000 C CNN
@@ -105,7 +105,7 @@ F 3 "" H 6050 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D4
+L delight-pcb-rescue:D-Device D4
 U 1 1 5BDB7471
 P 5700 3150
 F 0 "D4" V 5746 3071 50  0000 R CNN
@@ -120,7 +120,7 @@ Wire Wire Line
 Wire Wire Line
 	5700 2950 5700 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW5
+L delight-pcb-rescue:KEYSW-keyboard_parts SW5
 U 1 1 5BDB8AF4
 P 6750 2950
 F 0 "SW5" H 6750 3183 60  0000 C CNN
@@ -131,7 +131,7 @@ F 3 "" H 6750 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D5
+L delight-pcb-rescue:D-Device D5
 U 1 1 5BDB8AFB
 P 6400 3150
 F 0 "D5" V 6446 3071 50  0000 R CNN
@@ -146,7 +146,7 @@ Wire Wire Line
 Wire Wire Line
 	6400 2950 6400 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW6
+L delight-pcb-rescue:KEYSW-keyboard_parts SW6
 U 1 1 5BDBA2A7
 P 7450 2950
 F 0 "SW6" H 7450 3183 60  0000 C CNN
@@ -157,7 +157,7 @@ F 3 "" H 7450 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D6
+L delight-pcb-rescue:D-Device D6
 U 1 1 5BDBA2AE
 P 7100 3150
 F 0 "D6" V 7146 3071 50  0000 R CNN
@@ -172,7 +172,7 @@ Wire Wire Line
 Wire Wire Line
 	7100 2950 7100 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW7
+L delight-pcb-rescue:KEYSW-keyboard_parts SW7
 U 1 1 5BDC4F87
 P 8150 2950
 F 0 "SW7" H 8150 3183 60  0000 C CNN
@@ -183,7 +183,7 @@ F 3 "" H 8150 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D7
+L delight-pcb-rescue:D-Device D7
 U 1 1 5BDC4F8E
 P 7800 3150
 F 0 "D7" V 7846 3071 50  0000 R CNN
@@ -198,7 +198,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 2950 7800 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW8
+L delight-pcb-rescue:KEYSW-keyboard_parts SW8
 U 1 1 5BDC6958
 P 8850 2950
 F 0 "SW8" H 8850 3183 60  0000 C CNN
@@ -209,7 +209,7 @@ F 3 "" H 8850 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D8
+L delight-pcb-rescue:D-Device D8
 U 1 1 5BDC695F
 P 8500 3150
 F 0 "D8" V 8546 3071 50  0000 R CNN
@@ -224,7 +224,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 2950 8500 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW9
+L delight-pcb-rescue:KEYSW-keyboard_parts SW9
 U 1 1 5BDC8400
 P 9550 2950
 F 0 "SW9" H 9550 3183 60  0000 C CNN
@@ -235,7 +235,7 @@ F 3 "" H 9550 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D9
+L delight-pcb-rescue:D-Device D9
 U 1 1 5BDC8407
 P 9200 3150
 F 0 "D9" V 9246 3071 50  0000 R CNN
@@ -250,7 +250,7 @@ Wire Wire Line
 Wire Wire Line
 	9200 2950 9200 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW10
+L delight-pcb-rescue:KEYSW-keyboard_parts SW10
 U 1 1 5BDC9FAD
 P 10250 2950
 F 0 "SW10" H 10250 3183 60  0000 C CNN
@@ -261,7 +261,7 @@ F 3 "" H 10250 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D10
+L delight-pcb-rescue:D-Device D10
 U 1 1 5BDC9FB4
 P 9900 3150
 F 0 "D10" V 9946 3071 50  0000 R CNN
@@ -276,7 +276,7 @@ Wire Wire Line
 Wire Wire Line
 	9900 2950 9900 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW11
+L delight-pcb-rescue:KEYSW-keyboard_parts SW11
 U 1 1 5BDCBC8D
 P 10950 2950
 F 0 "SW11" H 10950 3183 60  0000 C CNN
@@ -287,7 +287,7 @@ F 3 "" H 10950 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D11
+L delight-pcb-rescue:D-Device D11
 U 1 1 5BDCBC94
 P 10600 3150
 F 0 "D11" V 10646 3071 50  0000 R CNN
@@ -302,7 +302,7 @@ Wire Wire Line
 Wire Wire Line
 	10600 2950 10600 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW12
+L delight-pcb-rescue:KEYSW-keyboard_parts SW12
 U 1 1 5BDCDA46
 P 11650 2950
 F 0 "SW12" H 11650 3183 60  0000 C CNN
@@ -313,7 +313,7 @@ F 3 "" H 11650 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D12
+L delight-pcb-rescue:D-Device D12
 U 1 1 5BDCDA4D
 P 11300 3150
 F 0 "D12" V 11346 3071 50  0000 R CNN
@@ -328,7 +328,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 2950 11300 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW13
+L delight-pcb-rescue:KEYSW-keyboard_parts SW13
 U 1 1 5BDCF8D2
 P 12350 2950
 F 0 "SW13" H 12350 3183 60  0000 C CNN
@@ -339,7 +339,7 @@ F 3 "" H 12350 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D13
+L delight-pcb-rescue:D-Device D13
 U 1 1 5BDCF8D9
 P 12000 3150
 F 0 "D13" V 12046 3071 50  0000 R CNN
@@ -354,7 +354,7 @@ Wire Wire Line
 Wire Wire Line
 	12000 2950 12000 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW14
+L delight-pcb-rescue:KEYSW-keyboard_parts SW14
 U 1 1 5BDD186B
 P 13050 2950
 F 0 "SW14" H 13050 3183 60  0000 C CNN
@@ -365,7 +365,7 @@ F 3 "" H 13050 2950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D14
+L delight-pcb-rescue:D-Device D14
 U 1 1 5BDD1872
 P 12700 3150
 F 0 "D14" V 12746 3071 50  0000 R CNN
@@ -380,7 +380,7 @@ Wire Wire Line
 Wire Wire Line
 	12700 2950 12700 3000
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW30
+L delight-pcb-rescue:KEYSW-keyboard_parts SW30
 U 1 1 5BDD4A79
 P 3250 4100
 F 0 "SW30" H 3250 4333 60  0000 C CNN
@@ -391,7 +391,7 @@ F 3 "" H 3250 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D30
+L delight-pcb-rescue:D-Device D30
 U 1 1 5BDD4A80
 P 2900 4300
 F 0 "D30" V 2946 4221 50  0000 R CNN
@@ -406,7 +406,7 @@ Wire Wire Line
 Wire Wire Line
 	2900 4100 2900 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW16
+L delight-pcb-rescue:KEYSW-keyboard_parts SW16
 U 1 1 5BDD4A89
 P 3950 3500
 F 0 "SW16" H 3950 3733 60  0000 C CNN
@@ -417,7 +417,7 @@ F 3 "" H 3950 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D16
+L delight-pcb-rescue:D-Device D16
 U 1 1 5BDD4A90
 P 3600 3700
 F 0 "D16" V 3646 3621 50  0000 R CNN
@@ -432,7 +432,7 @@ Wire Wire Line
 Wire Wire Line
 	3600 3500 3600 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW17
+L delight-pcb-rescue:KEYSW-keyboard_parts SW17
 U 1 1 5BDD4A99
 P 4650 3500
 F 0 "SW17" H 4650 3733 60  0000 C CNN
@@ -443,7 +443,7 @@ F 3 "" H 4650 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D17
+L delight-pcb-rescue:D-Device D17
 U 1 1 5BDD4AA0
 P 4300 3700
 F 0 "D17" V 4346 3621 50  0000 R CNN
@@ -458,7 +458,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 3500 4300 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW18
+L delight-pcb-rescue:KEYSW-keyboard_parts SW18
 U 1 1 5BDD4AA9
 P 5350 3500
 F 0 "SW18" H 5350 3733 60  0000 C CNN
@@ -469,7 +469,7 @@ F 3 "" H 5350 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D18
+L delight-pcb-rescue:D-Device D18
 U 1 1 5BDD4AB0
 P 5000 3700
 F 0 "D18" V 5046 3621 50  0000 R CNN
@@ -484,7 +484,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 3500 5000 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW19
+L delight-pcb-rescue:KEYSW-keyboard_parts SW19
 U 1 1 5BDD4AB9
 P 6050 3500
 F 0 "SW19" H 6050 3733 60  0000 C CNN
@@ -495,7 +495,7 @@ F 3 "" H 6050 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D19
+L delight-pcb-rescue:D-Device D19
 U 1 1 5BDD4AC0
 P 5700 3700
 F 0 "D19" V 5746 3621 50  0000 R CNN
@@ -510,7 +510,7 @@ Wire Wire Line
 Wire Wire Line
 	5700 3500 5700 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW20
+L delight-pcb-rescue:KEYSW-keyboard_parts SW20
 U 1 1 5BDD4AC9
 P 6750 3500
 F 0 "SW20" H 6750 3733 60  0000 C CNN
@@ -521,7 +521,7 @@ F 3 "" H 6750 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D20
+L delight-pcb-rescue:D-Device D20
 U 1 1 5BDD4AD0
 P 6400 3700
 F 0 "D20" V 6446 3621 50  0000 R CNN
@@ -536,7 +536,7 @@ Wire Wire Line
 Wire Wire Line
 	6400 3500 6400 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW21
+L delight-pcb-rescue:KEYSW-keyboard_parts SW21
 U 1 1 5BDD4AD9
 P 7450 3500
 F 0 "SW21" H 7450 3733 60  0000 C CNN
@@ -547,7 +547,7 @@ F 3 "" H 7450 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D21
+L delight-pcb-rescue:D-Device D21
 U 1 1 5BDD4AE0
 P 7100 3700
 F 0 "D21" V 7146 3621 50  0000 R CNN
@@ -562,7 +562,7 @@ Wire Wire Line
 Wire Wire Line
 	7100 3500 7100 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW22
+L delight-pcb-rescue:KEYSW-keyboard_parts SW22
 U 1 1 5BDD4AE9
 P 8150 3500
 F 0 "SW22" H 8150 3733 60  0000 C CNN
@@ -573,7 +573,7 @@ F 3 "" H 8150 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D22
+L delight-pcb-rescue:D-Device D22
 U 1 1 5BDD4AF0
 P 7800 3700
 F 0 "D22" V 7846 3621 50  0000 R CNN
@@ -588,7 +588,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 3500 7800 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW23
+L delight-pcb-rescue:KEYSW-keyboard_parts SW23
 U 1 1 5BDD4AF9
 P 8850 3500
 F 0 "SW23" H 8850 3733 60  0000 C CNN
@@ -599,7 +599,7 @@ F 3 "" H 8850 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D23
+L delight-pcb-rescue:D-Device D23
 U 1 1 5BDD4B00
 P 8500 3700
 F 0 "D23" V 8546 3621 50  0000 R CNN
@@ -614,7 +614,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 3500 8500 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW24
+L delight-pcb-rescue:KEYSW-keyboard_parts SW24
 U 1 1 5BDD4B09
 P 9550 3500
 F 0 "SW24" H 9550 3733 60  0000 C CNN
@@ -625,7 +625,7 @@ F 3 "" H 9550 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D24
+L delight-pcb-rescue:D-Device D24
 U 1 1 5BDD4B10
 P 9200 3700
 F 0 "D24" V 9246 3621 50  0000 R CNN
@@ -640,7 +640,7 @@ Wire Wire Line
 Wire Wire Line
 	9200 3500 9200 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW25
+L delight-pcb-rescue:KEYSW-keyboard_parts SW25
 U 1 1 5BDD4B19
 P 10250 3500
 F 0 "SW25" H 10250 3733 60  0000 C CNN
@@ -651,7 +651,7 @@ F 3 "" H 10250 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D25
+L delight-pcb-rescue:D-Device D25
 U 1 1 5BDD4B20
 P 9900 3700
 F 0 "D25" V 9946 3621 50  0000 R CNN
@@ -666,7 +666,7 @@ Wire Wire Line
 Wire Wire Line
 	9900 3500 9900 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW26
+L delight-pcb-rescue:KEYSW-keyboard_parts SW26
 U 1 1 5BDD4B29
 P 10950 3500
 F 0 "SW26" H 10950 3733 60  0000 C CNN
@@ -677,7 +677,7 @@ F 3 "" H 10950 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D26
+L delight-pcb-rescue:D-Device D26
 U 1 1 5BDD4B30
 P 10600 3700
 F 0 "D26" V 10646 3621 50  0000 R CNN
@@ -692,7 +692,7 @@ Wire Wire Line
 Wire Wire Line
 	10600 3500 10600 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW27
+L delight-pcb-rescue:KEYSW-keyboard_parts SW27
 U 1 1 5BDD4B39
 P 11650 3500
 F 0 "SW27" H 11650 3733 60  0000 C CNN
@@ -703,7 +703,7 @@ F 3 "" H 11650 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D27
+L delight-pcb-rescue:D-Device D27
 U 1 1 5BDD4B40
 P 11300 3700
 F 0 "D27" V 11346 3621 50  0000 R CNN
@@ -718,7 +718,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 3500 11300 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW28
+L delight-pcb-rescue:KEYSW-keyboard_parts SW28
 U 1 1 5BDD4B49
 P 12350 3500
 F 0 "SW28" H 12350 3733 60  0000 C CNN
@@ -729,7 +729,7 @@ F 3 "" H 12350 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D28
+L delight-pcb-rescue:D-Device D28
 U 1 1 5BDD4B50
 P 12000 3700
 F 0 "D28" V 12046 3621 50  0000 R CNN
@@ -744,7 +744,7 @@ Wire Wire Line
 Wire Wire Line
 	12000 3500 12000 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW29
+L delight-pcb-rescue:KEYSW-keyboard_parts SW29
 U 1 1 5BDD4B59
 P 13050 3500
 F 0 "SW29" H 13050 3733 60  0000 C CNN
@@ -755,7 +755,7 @@ F 3 "" H 13050 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D29
+L delight-pcb-rescue:D-Device D29
 U 1 1 5BDD4B60
 P 12700 3700
 F 0 "D29" V 12746 3621 50  0000 R CNN
@@ -770,7 +770,7 @@ Wire Wire Line
 Wire Wire Line
 	12700 3500 12700 3550
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW44
+L delight-pcb-rescue:KEYSW-keyboard_parts SW44
 U 1 1 5BE2E393
 P 3250 4650
 F 0 "SW44" H 3250 4883 60  0000 C CNN
@@ -781,7 +781,7 @@ F 3 "" H 3250 4650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D44
+L delight-pcb-rescue:D-Device D44
 U 1 1 5BE2E39A
 P 2900 4900
 F 0 "D44" V 2946 4821 50  0000 R CNN
@@ -796,7 +796,7 @@ Wire Wire Line
 Wire Wire Line
 	2900 4650 2900 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW31
+L delight-pcb-rescue:KEYSW-keyboard_parts SW31
 U 1 1 5BE2E3A3
 P 3950 4100
 F 0 "SW31" H 3950 4333 60  0000 C CNN
@@ -807,7 +807,7 @@ F 3 "" H 3950 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D31
+L delight-pcb-rescue:D-Device D31
 U 1 1 5BE2E3AA
 P 3600 4300
 F 0 "D31" V 3646 4221 50  0000 R CNN
@@ -822,7 +822,7 @@ Wire Wire Line
 Wire Wire Line
 	3600 4100 3600 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW32
+L delight-pcb-rescue:KEYSW-keyboard_parts SW32
 U 1 1 5BE2E3B3
 P 4650 4100
 F 0 "SW32" H 4650 4333 60  0000 C CNN
@@ -833,7 +833,7 @@ F 3 "" H 4650 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D32
+L delight-pcb-rescue:D-Device D32
 U 1 1 5BE2E3BA
 P 4300 4300
 F 0 "D32" V 4346 4221 50  0000 R CNN
@@ -848,7 +848,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 4100 4300 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW33
+L delight-pcb-rescue:KEYSW-keyboard_parts SW33
 U 1 1 5BE2E3C3
 P 5350 4100
 F 0 "SW33" H 5350 4333 60  0000 C CNN
@@ -859,7 +859,7 @@ F 3 "" H 5350 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D33
+L delight-pcb-rescue:D-Device D33
 U 1 1 5BE2E3CA
 P 5000 4300
 F 0 "D33" V 5046 4221 50  0000 R CNN
@@ -874,7 +874,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 4100 5000 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW34
+L delight-pcb-rescue:KEYSW-keyboard_parts SW34
 U 1 1 5BE2E3D3
 P 6050 4100
 F 0 "SW34" H 6050 4333 60  0000 C CNN
@@ -885,7 +885,7 @@ F 3 "" H 6050 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D34
+L delight-pcb-rescue:D-Device D34
 U 1 1 5BE2E3DA
 P 5700 4300
 F 0 "D34" V 5746 4221 50  0000 R CNN
@@ -900,7 +900,7 @@ Wire Wire Line
 Wire Wire Line
 	5700 4100 5700 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW35
+L delight-pcb-rescue:KEYSW-keyboard_parts SW35
 U 1 1 5BE2E3E3
 P 6750 4100
 F 0 "SW35" H 6750 4333 60  0000 C CNN
@@ -911,7 +911,7 @@ F 3 "" H 6750 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D35
+L delight-pcb-rescue:D-Device D35
 U 1 1 5BE2E3EA
 P 6400 4300
 F 0 "D35" V 6446 4221 50  0000 R CNN
@@ -926,7 +926,7 @@ Wire Wire Line
 Wire Wire Line
 	6400 4100 6400 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW36
+L delight-pcb-rescue:KEYSW-keyboard_parts SW36
 U 1 1 5BE2E3F3
 P 7450 4100
 F 0 "SW36" H 7450 4333 60  0000 C CNN
@@ -937,7 +937,7 @@ F 3 "" H 7450 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D36
+L delight-pcb-rescue:D-Device D36
 U 1 1 5BE2E3FA
 P 7100 4300
 F 0 "D36" V 7146 4221 50  0000 R CNN
@@ -952,7 +952,7 @@ Wire Wire Line
 Wire Wire Line
 	7100 4100 7100 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW37
+L delight-pcb-rescue:KEYSW-keyboard_parts SW37
 U 1 1 5BE2E403
 P 8150 4100
 F 0 "SW37" H 8150 4333 60  0000 C CNN
@@ -963,7 +963,7 @@ F 3 "" H 8150 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D37
+L delight-pcb-rescue:D-Device D37
 U 1 1 5BE2E40A
 P 7800 4300
 F 0 "D37" V 7846 4221 50  0000 R CNN
@@ -978,7 +978,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 4100 7800 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW38
+L delight-pcb-rescue:KEYSW-keyboard_parts SW38
 U 1 1 5BE2E413
 P 8850 4100
 F 0 "SW38" H 8850 4333 60  0000 C CNN
@@ -989,7 +989,7 @@ F 3 "" H 8850 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D38
+L delight-pcb-rescue:D-Device D38
 U 1 1 5BE2E41A
 P 8500 4300
 F 0 "D38" V 8546 4221 50  0000 R CNN
@@ -1004,7 +1004,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 4100 8500 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW39
+L delight-pcb-rescue:KEYSW-keyboard_parts SW39
 U 1 1 5BE2E423
 P 9550 4100
 F 0 "SW39" H 9550 4333 60  0000 C CNN
@@ -1015,7 +1015,7 @@ F 3 "" H 9550 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D39
+L delight-pcb-rescue:D-Device D39
 U 1 1 5BE2E42A
 P 9200 4300
 F 0 "D39" V 9246 4221 50  0000 R CNN
@@ -1030,7 +1030,7 @@ Wire Wire Line
 Wire Wire Line
 	9200 4100 9200 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW40
+L delight-pcb-rescue:KEYSW-keyboard_parts SW40
 U 1 1 5BE2E433
 P 10250 4100
 F 0 "SW40" H 10250 4333 60  0000 C CNN
@@ -1041,7 +1041,7 @@ F 3 "" H 10250 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D40
+L delight-pcb-rescue:D-Device D40
 U 1 1 5BE2E43A
 P 9900 4300
 F 0 "D40" V 9946 4221 50  0000 R CNN
@@ -1056,7 +1056,7 @@ Wire Wire Line
 Wire Wire Line
 	9900 4100 9900 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW41
+L delight-pcb-rescue:KEYSW-keyboard_parts SW41
 U 1 1 5BE2E443
 P 10950 4100
 F 0 "SW41" H 10950 4333 60  0000 C CNN
@@ -1067,7 +1067,7 @@ F 3 "" H 10950 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D41
+L delight-pcb-rescue:D-Device D41
 U 1 1 5BE2E44A
 P 10600 4300
 F 0 "D41" V 10646 4221 50  0000 R CNN
@@ -1082,7 +1082,7 @@ Wire Wire Line
 Wire Wire Line
 	10600 4100 10600 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW42
+L delight-pcb-rescue:KEYSW-keyboard_parts SW42
 U 1 1 5BE2E453
 P 12350 4100
 F 0 "SW42" H 12350 4333 60  0000 C CNN
@@ -1093,7 +1093,7 @@ F 3 "" H 12350 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D42
+L delight-pcb-rescue:D-Device D42
 U 1 1 5BE2E45A
 P 12000 4300
 F 0 "D42" V 12046 4221 50  0000 R CNN
@@ -1108,7 +1108,7 @@ Wire Wire Line
 Wire Wire Line
 	12000 4100 12000 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW43
+L delight-pcb-rescue:KEYSW-keyboard_parts SW43
 U 1 1 5BE2E463
 P 13050 4100
 F 0 "SW43" H 13050 4333 60  0000 C CNN
@@ -1119,7 +1119,7 @@ F 3 "" H 13050 4100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D43
+L delight-pcb-rescue:D-Device D43
 U 1 1 5BE2E46A
 P 12700 4300
 F 0 "D43" V 12746 4221 50  0000 R CNN
@@ -1134,7 +1134,7 @@ Wire Wire Line
 Wire Wire Line
 	12700 4100 12700 4150
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW59
+L delight-pcb-rescue:KEYSW-keyboard_parts SW59
 U 1 1 5BE34833
 P 3250 5250
 F 0 "SW59" H 3250 5483 60  0000 C CNN
@@ -1145,7 +1145,7 @@ F 3 "" H 3250 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D59
+L delight-pcb-rescue:D-Device D59
 U 1 1 5BE3483A
 P 2900 5450
 F 0 "D59" V 2946 5371 50  0000 R CNN
@@ -1160,7 +1160,7 @@ Wire Wire Line
 Wire Wire Line
 	2900 5250 2900 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW46
+L delight-pcb-rescue:KEYSW-keyboard_parts SW46
 U 1 1 5BE34843
 P 4650 4700
 F 0 "SW46" H 4650 4933 60  0000 C CNN
@@ -1171,7 +1171,7 @@ F 3 "" H 4650 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D46
+L delight-pcb-rescue:D-Device D46
 U 1 1 5BE3484A
 P 4300 4900
 F 0 "D46" V 4346 4821 50  0000 R CNN
@@ -1186,7 +1186,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 4700 4300 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW47
+L delight-pcb-rescue:KEYSW-keyboard_parts SW47
 U 1 1 5BE34853
 P 5350 4700
 F 0 "SW47" H 5350 4933 60  0000 C CNN
@@ -1197,7 +1197,7 @@ F 3 "" H 5350 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D47
+L delight-pcb-rescue:D-Device D47
 U 1 1 5BE3485A
 P 5000 4900
 F 0 "D47" V 5046 4821 50  0000 R CNN
@@ -1212,7 +1212,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 4700 5000 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW48
+L delight-pcb-rescue:KEYSW-keyboard_parts SW48
 U 1 1 5BE34863
 P 6050 4700
 F 0 "SW48" H 6050 4933 60  0000 C CNN
@@ -1223,7 +1223,7 @@ F 3 "" H 6050 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D48
+L delight-pcb-rescue:D-Device D48
 U 1 1 5BE3486A
 P 5700 4900
 F 0 "D48" V 5746 4821 50  0000 R CNN
@@ -1238,7 +1238,7 @@ Wire Wire Line
 Wire Wire Line
 	5700 4700 5700 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW49
+L delight-pcb-rescue:KEYSW-keyboard_parts SW49
 U 1 1 5BE34873
 P 6750 4700
 F 0 "SW49" H 6750 4933 60  0000 C CNN
@@ -1249,7 +1249,7 @@ F 3 "" H 6750 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D49
+L delight-pcb-rescue:D-Device D49
 U 1 1 5BE3487A
 P 6400 4900
 F 0 "D49" V 6446 4821 50  0000 R CNN
@@ -1264,7 +1264,7 @@ Wire Wire Line
 Wire Wire Line
 	6400 4700 6400 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW50
+L delight-pcb-rescue:KEYSW-keyboard_parts SW50
 U 1 1 5BE34883
 P 7450 4700
 F 0 "SW50" H 7450 4933 60  0000 C CNN
@@ -1275,7 +1275,7 @@ F 3 "" H 7450 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D50
+L delight-pcb-rescue:D-Device D50
 U 1 1 5BE3488A
 P 7100 4900
 F 0 "D50" V 7146 4821 50  0000 R CNN
@@ -1290,7 +1290,7 @@ Wire Wire Line
 Wire Wire Line
 	7100 4700 7100 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW51
+L delight-pcb-rescue:KEYSW-keyboard_parts SW51
 U 1 1 5BE34893
 P 8150 4700
 F 0 "SW51" H 8150 4933 60  0000 C CNN
@@ -1301,7 +1301,7 @@ F 3 "" H 8150 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D51
+L delight-pcb-rescue:D-Device D51
 U 1 1 5BE3489A
 P 7800 4900
 F 0 "D51" V 7846 4821 50  0000 R CNN
@@ -1316,7 +1316,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 4700 7800 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW52
+L delight-pcb-rescue:KEYSW-keyboard_parts SW52
 U 1 1 5BE348A3
 P 8850 4700
 F 0 "SW52" H 8850 4933 60  0000 C CNN
@@ -1327,7 +1327,7 @@ F 3 "" H 8850 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D52
+L delight-pcb-rescue:D-Device D52
 U 1 1 5BE348AA
 P 8500 4900
 F 0 "D52" V 8546 4821 50  0000 R CNN
@@ -1342,7 +1342,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 4700 8500 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW53
+L delight-pcb-rescue:KEYSW-keyboard_parts SW53
 U 1 1 5BE348B3
 P 9550 4700
 F 0 "SW53" H 9550 4933 60  0000 C CNN
@@ -1353,7 +1353,7 @@ F 3 "" H 9550 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D53
+L delight-pcb-rescue:D-Device D53
 U 1 1 5BE348BA
 P 9200 4900
 F 0 "D53" V 9246 4821 50  0000 R CNN
@@ -1368,7 +1368,7 @@ Wire Wire Line
 Wire Wire Line
 	9200 4700 9200 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW54
+L delight-pcb-rescue:KEYSW-keyboard_parts SW54
 U 1 1 5BE348C3
 P 10250 4700
 F 0 "SW54" H 10250 4933 60  0000 C CNN
@@ -1379,7 +1379,7 @@ F 3 "" H 10250 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D54
+L delight-pcb-rescue:D-Device D54
 U 1 1 5BE348CA
 P 9900 4900
 F 0 "D54" V 9946 4821 50  0000 R CNN
@@ -1394,7 +1394,7 @@ Wire Wire Line
 Wire Wire Line
 	9900 4700 9900 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW55
+L delight-pcb-rescue:KEYSW-keyboard_parts SW55
 U 1 1 5BE348D3
 P 10950 4700
 F 0 "SW55" H 10950 4933 60  0000 C CNN
@@ -1405,7 +1405,7 @@ F 3 "" H 10950 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D55
+L delight-pcb-rescue:D-Device D55
 U 1 1 5BE348DA
 P 10600 4900
 F 0 "D55" V 10646 4821 50  0000 R CNN
@@ -1420,7 +1420,7 @@ Wire Wire Line
 Wire Wire Line
 	10600 4700 10600 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW56
+L delight-pcb-rescue:KEYSW-keyboard_parts SW56
 U 1 1 5BE348E3
 P 11650 4700
 F 0 "SW56" H 11650 4933 60  0000 C CNN
@@ -1431,7 +1431,7 @@ F 3 "" H 11650 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D56
+L delight-pcb-rescue:D-Device D56
 U 1 1 5BE348EA
 P 11300 4900
 F 0 "D56" V 11346 4821 50  0000 R CNN
@@ -1446,7 +1446,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 4700 11300 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW57
+L delight-pcb-rescue:KEYSW-keyboard_parts SW57
 U 1 1 5BE348F3
 P 12350 4700
 F 0 "SW57" H 12350 4933 60  0000 C CNN
@@ -1457,7 +1457,7 @@ F 3 "" H 12350 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D57
+L delight-pcb-rescue:D-Device D57
 U 1 1 5BE348FA
 P 12000 4900
 F 0 "D57" V 12046 4821 50  0000 R CNN
@@ -1472,7 +1472,7 @@ Wire Wire Line
 Wire Wire Line
 	12000 4700 12000 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW58
+L delight-pcb-rescue:KEYSW-keyboard_parts SW58
 U 1 1 5BE34903
 P 13050 4700
 F 0 "SW58" H 13050 4933 60  0000 C CNN
@@ -1483,7 +1483,7 @@ F 3 "" H 13050 4700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D58
+L delight-pcb-rescue:D-Device D58
 U 1 1 5BE3490A
 P 12700 4900
 F 0 "D58" V 12746 4821 50  0000 R CNN
@@ -1498,7 +1498,7 @@ Wire Wire Line
 Wire Wire Line
 	12700 4700 12700 4750
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW60
+L delight-pcb-rescue:KEYSW-keyboard_parts SW60
 U 1 1 5BE64C5B
 P 3950 5250
 F 0 "SW60" H 3950 5483 60  0000 C CNN
@@ -1511,7 +1511,7 @@ $EndComp
 Wire Wire Line
 	3650 5250 3600 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW61
+L delight-pcb-rescue:KEYSW-keyboard_parts SW61
 U 1 1 5BE64C6A
 P 4650 5250
 F 0 "SW61" H 4650 5483 60  0000 C CNN
@@ -1522,7 +1522,7 @@ F 3 "" H 4650 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D61
+L delight-pcb-rescue:D-Device D61
 U 1 1 5BE64C71
 P 4300 5450
 F 0 "D61" V 4346 5371 50  0000 R CNN
@@ -1537,7 +1537,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 5250 4300 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts S62
+L delight-pcb-rescue:KEYSW-keyboard_parts S62
 U 1 1 5BE64C7A
 P 5350 5250
 F 0 "S62" H 5350 5483 60  0000 C CNN
@@ -1548,7 +1548,7 @@ F 3 "" H 5350 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D62
+L delight-pcb-rescue:D-Device D62
 U 1 1 5BE64C81
 P 5000 5450
 F 0 "D62" V 5046 5371 50  0000 R CNN
@@ -1563,7 +1563,7 @@ Wire Wire Line
 Wire Wire Line
 	5000 5250 5000 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW63
+L delight-pcb-rescue:KEYSW-keyboard_parts SW63
 U 1 1 5BE7F31E
 P 7450 5250
 F 0 "SW63" H 7450 5483 60  0000 C CNN
@@ -1574,7 +1574,7 @@ F 3 "" H 7450 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D63
+L delight-pcb-rescue:D-Device D63
 U 1 1 5BE7F325
 P 7100 5450
 F 0 "D63" V 7146 5371 50  0000 R CNN
@@ -1589,7 +1589,7 @@ Wire Wire Line
 Wire Wire Line
 	7100 5250 7100 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW64
+L delight-pcb-rescue:KEYSW-keyboard_parts SW64
 U 1 1 5BE881B1
 P 9550 5250
 F 0 "SW64" H 9550 5483 60  0000 C CNN
@@ -1600,7 +1600,7 @@ F 3 "" H 9550 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D64
+L delight-pcb-rescue:D-Device D64
 U 1 1 5BE881B8
 P 9200 5450
 F 0 "D64" V 9246 5371 50  0000 R CNN
@@ -1615,7 +1615,7 @@ Wire Wire Line
 Wire Wire Line
 	9200 5250 9200 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW65
+L delight-pcb-rescue:KEYSW-keyboard_parts SW65
 U 1 1 5BE881C1
 P 10250 5250
 F 0 "SW65" H 10250 5483 60  0000 C CNN
@@ -1626,7 +1626,7 @@ F 3 "" H 10250 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D65
+L delight-pcb-rescue:D-Device D65
 U 1 1 5BE881C8
 P 9900 5450
 F 0 "D65" V 9946 5371 50  0000 R CNN
@@ -1641,7 +1641,7 @@ Wire Wire Line
 Wire Wire Line
 	9900 5250 9900 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW67
+L delight-pcb-rescue:KEYSW-keyboard_parts SW67
 U 1 1 5BE881D1
 P 11650 5250
 F 0 "SW67" H 11650 5483 60  0000 C CNN
@@ -1652,7 +1652,7 @@ F 3 "" H 11650 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D67
+L delight-pcb-rescue:D-Device D67
 U 1 1 5BE881D8
 P 11300 5450
 F 0 "D67" V 11346 5371 50  0000 R CNN
@@ -1667,7 +1667,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 5250 11300 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW68
+L delight-pcb-rescue:KEYSW-keyboard_parts SW68
 U 1 1 5BE881E1
 P 12350 5250
 F 0 "SW68" H 12350 5483 60  0000 C CNN
@@ -1678,7 +1678,7 @@ F 3 "" H 12350 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D68
+L delight-pcb-rescue:D-Device D68
 U 1 1 5BE881E8
 P 12000 5450
 F 0 "D68" V 12046 5371 50  0000 R CNN
@@ -1693,7 +1693,7 @@ Wire Wire Line
 Wire Wire Line
 	12000 5250 12000 5300
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW69
+L delight-pcb-rescue:KEYSW-keyboard_parts SW69
 U 1 1 5BE881F1
 P 13050 5250
 F 0 "SW69" H 13050 5483 60  0000 C CNN
@@ -1704,7 +1704,7 @@ F 3 "" H 13050 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D69
+L delight-pcb-rescue:D-Device D69
 U 1 1 5BE881F8
 P 12700 5450
 F 0 "D69" V 12746 5371 50  0000 R CNN
@@ -1966,7 +1966,7 @@ Text Notes 13000 11050 0    50   ~ 0
 Text Notes 12250 10900 0    50   ~ 0
 DELIGHT
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW66
+L delight-pcb-rescue:KEYSW-keyboard_parts SW66
 U 1 1 5D067388
 P 10950 5250
 F 0 "SW66" H 10950 5483 60  0000 C CNN
@@ -1977,7 +1977,7 @@ F 3 "" H 10950 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:D-Device D66
+L delight-pcb-rescue:D-Device D66
 U 1 1 5D06738E
 P 10600 5450
 F 0 "D66" V 10646 5371 50  0000 R CNN
@@ -2007,7 +2007,7 @@ Connection ~ 11300 5600
 NoConn ~ 6300 8100
 NoConn ~ 6300 8200
 $Comp
-L discipline-pcb-rescue:R_Small-Device R1
+L delight-pcb-rescue:R_Small-Device R1
 U 1 1 5D059885
 P 6500 7200
 F 0 "R1" V 6400 7200 50  0000 C CNN
@@ -2018,7 +2018,7 @@ F 3 "~" H 6500 7200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:R_Small-Device R2
+L delight-pcb-rescue:R_Small-Device R2
 U 1 1 5D059DB7
 P 6500 7300
 F 0 "R2" V 6400 7300 50  0000 C CNN
@@ -2029,7 +2029,7 @@ F 3 "~" H 6500 7300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:USB_C_Receptacle_USB2.0-Connector USB1
+L delight-pcb-rescue:USB_C_Receptacle_USB2.0-Connector USB1
 U 1 1 5D127DE0
 P 5700 7600
 F 0 "USB1" H 5700 8450 60  0000 C CNN
@@ -2040,7 +2040,7 @@ F 3 "" H 5700 7600 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0102
+L delight-pcb-rescue:GND-power #PWR0102
 U 1 1 5D1E1072
 P 5700 8500
 F 0 "#PWR0102" H 5700 8250 50  0001 C CNN
@@ -2057,7 +2057,7 @@ reset
 Wire Wire Line
 	3975 6700 4075 6700
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0103
+L delight-pcb-rescue:+5V-power #PWR0103
 U 1 1 5D19BD7F
 P 4075 6700
 F 0 "#PWR0103" H 4075 6790 20  0001 C CNN
@@ -2068,7 +2068,7 @@ F 3 "" H 4075 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0104
+L delight-pcb-rescue:GND-power #PWR0104
 U 1 1 5D19C23E
 P 3975 10700
 F 0 "#PWR0104" H 3975 10450 50  0001 C CNN
@@ -2083,7 +2083,7 @@ D+
 Text GLabel 4575 10000 2    50   Input ~ 0
 D-
 $Comp
-L discipline-pcb-rescue:R_Small-Device R3
+L delight-pcb-rescue:R_Small-Device R3
 U 1 1 5D1C25EC
 P 7100 7600
 F 0 "R3" V 7000 7600 50  0000 C CNN
@@ -2094,7 +2094,7 @@ F 3 "~" H 7100 7600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:R_Small-Device R4
+L delight-pcb-rescue:R_Small-Device R4
 U 1 1 5D1C27D1
 P 7100 7800
 F 0 "R4" V 7200 7800 50  0000 C CNN
@@ -2109,7 +2109,7 @@ D-
 Text GLabel 7200 7800 2    50   Input ~ 0
 D+
 $Comp
-L discipline-pcb-rescue:C_Small-Device C2
+L delight-pcb-rescue:C_Small-Device C2
 U 1 1 5D22BD08
 P 2975 7650
 F 0 "C2" H 3075 7750 50  0000 L CNN
@@ -2120,7 +2120,7 @@ F 3 "~" H 2975 7650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:C_Small-Device C1
+L delight-pcb-rescue:C_Small-Device C1
 U 1 1 5D22BE46
 P 2825 7650
 F 0 "C1" H 2625 7750 50  0000 L CNN
@@ -2133,7 +2133,7 @@ $EndComp
 Wire Wire Line
 	2825 7750 2975 7750
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0107
+L delight-pcb-rescue:GND-power #PWR0107
 U 1 1 5D277157
 P 2975 7750
 F 0 "#PWR0107" H 2975 7500 50  0001 C CNN
@@ -2145,7 +2145,7 @@ F 3 "" H 2975 7750 50  0001 C CNN
 $EndComp
 Connection ~ 2975 7750
 $Comp
-L discipline-pcb-rescue:D_Zener_Small-Device D70
+L delight-pcb-rescue:D_Zener_Small-Device D70
 U 1 1 5D184B7B
 P 6600 8000
 F 0 "D70" V 6500 7950 39  0000 R CNN
@@ -2156,7 +2156,7 @@ F 3 "~" V 6600 8000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0101
+L delight-pcb-rescue:GND-power #PWR0101
 U 1 1 5D205D44
 P 6700 8100
 F 0 "#PWR0101" H 6700 7850 50  0001 C CNN
@@ -2167,7 +2167,7 @@ F 3 "" H 6700 8100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:R_Small-Device R5
+L delight-pcb-rescue:R_Small-Device R5
 U 1 1 5D2B8CD8
 P 6900 7500
 F 0 "R5" H 6950 7650 50  0000 L CNN
@@ -2178,7 +2178,7 @@ F 3 "~" H 6900 7500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0109
+L delight-pcb-rescue:+5V-power #PWR0109
 U 1 1 5D2D4A6B
 P 6900 7400
 F 0 "#PWR0109" H 6900 7490 20  0001 C CNN
@@ -2189,7 +2189,7 @@ F 3 "" H 6900 7400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:Polyfuse_Small-Device F1
+L delight-pcb-rescue:Polyfuse_Small-Device F1
 U 1 1 5D2F73B7
 P 6650 6900
 F 0 "F1" H 6718 6946 50  0000 L CNN
@@ -2200,7 +2200,7 @@ F 3 "~" H 6650 6900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0110
+L delight-pcb-rescue:+5V-power #PWR0110
 U 1 1 5D31262D
 P 6650 6800
 F 0 "#PWR0110" H 6650 6890 20  0001 C CNN
@@ -2211,7 +2211,7 @@ F 3 "" H 6650 6800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:CP1_Small-Device C3
+L delight-pcb-rescue:CP1_Small-Device C3
 U 1 1 5D175B8C
 P 5500 9675
 F 0 "C3" H 5450 9825 50  0000 L CNN
@@ -2222,7 +2222,7 @@ F 3 "~" H 5500 9675 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:C_Small-Device C4
+L delight-pcb-rescue:C_Small-Device C4
 U 1 1 5D176D89
 P 5650 9675
 F 0 "C4" H 5600 9825 50  0000 L CNN
@@ -2233,7 +2233,7 @@ F 3 "~" H 5650 9675 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:C_Small-Device C5
+L delight-pcb-rescue:C_Small-Device C5
 U 1 1 5D176ED3
 P 5800 9675
 F 0 "C5" H 5750 9825 50  0000 L CNN
@@ -2249,7 +2249,7 @@ Connection ~ 5650 9575
 Wire Wire Line
 	5650 9575 5800 9575
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0111
+L delight-pcb-rescue:+5V-power #PWR0111
 U 1 1 5D193DAD
 P 5650 9475
 F 0 "#PWR0111" H 5650 9565 20  0001 C CNN
@@ -2269,7 +2269,7 @@ Wire Wire Line
 Wire Wire Line
 	5650 9775 5650 9875
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0108
+L delight-pcb-rescue:+5V-power #PWR0108
 U 1 1 5D23F01D
 P 8400 6800
 F 0 "#PWR0108" H 8400 6890 20  0001 C CNN
@@ -2280,7 +2280,7 @@ F 3 "" H 8400 6800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:SW_PUSH-keyboard_parts RESET1
+L delight-pcb-rescue:SW_PUSH-keyboard_parts RESET1
 U 1 1 5D18D9C7
 P 6725 10325
 F 0 "RESET1" H 6725 10580 50  0000 C CNN
@@ -2293,7 +2293,7 @@ $EndComp
 Text GLabel 7325 10325 2    50   Input ~ 0
 reset
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0113
+L delight-pcb-rescue:GND-power #PWR0113
 U 1 1 5D1AAAAC
 P 6425 10325
 F 0 "#PWR0113" H 6425 10075 50  0001 C CNN
@@ -2348,7 +2348,7 @@ col5
 Text GLabel 4575 8000 2    50   Input ~ 0
 col6
 $Comp
-L discipline-pcb-rescue:LED-Device LED1
+L delight-pcb-rescue:LED-Device LED1
 U 1 1 5D1AD596
 P 8675 9550
 F 0 "LED1" H 8725 9750 50  0000 C CNN
@@ -2359,7 +2359,7 @@ F 3 "~" H 8675 9550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0114
+L delight-pcb-rescue:+5V-power #PWR0114
 U 1 1 5D1AD8DF
 P 8825 9550
 F 0 "#PWR0114" H 8825 9640 20  0001 C CNN
@@ -2370,7 +2370,7 @@ F 3 "" H 8825 9550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:R_Small-Device R6
+L delight-pcb-rescue:R_Small-Device R6
 U 1 1 5D1ADA68
 P 8425 9550
 F 0 "R6" V 8229 9550 50  0000 C CNN
@@ -2381,7 +2381,7 @@ F 3 "~" H 8425 9550 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0115
+L delight-pcb-rescue:GND-power #PWR0115
 U 1 1 5D1ADC86
 P 8325 9550
 F 0 "#PWR0115" H 8325 9300 50  0001 C CNN
@@ -2392,7 +2392,7 @@ F 3 "" H 8325 9550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:R_Small-Device R7
+L delight-pcb-rescue:R_Small-Device R7
 U 1 1 5D19ED3B
 P 7175 10225
 F 0 "R7" H 7234 10271 50  0000 L CNN
@@ -2403,7 +2403,7 @@ F 3 "~" H 7175 10225 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:+5V-power #PWR0116
+L delight-pcb-rescue:+5V-power #PWR0116
 U 1 1 5D19F096
 P 7175 10125
 F 0 "#PWR0116" H 7175 10215 20  0001 C CNN
@@ -2419,7 +2419,7 @@ Wire Wire Line
 	7175 10325 7025 10325
 Connection ~ 7175 10325
 $Comp
-L discipline-pcb-rescue:SW_PUSH-keyboard_parts BOOT1
+L delight-pcb-rescue:SW_PUSH-keyboard_parts BOOT1
 U 1 1 5D1B3FAF
 P 6950 9600
 F 0 "BOOT1" H 6950 9855 50  0000 C CNN
@@ -2430,7 +2430,7 @@ F 3 "" H 6950 9600 60  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0117
+L delight-pcb-rescue:GND-power #PWR0117
 U 1 1 5D1B4A92
 P 6650 9600
 F 0 "#PWR0117" H 6650 9350 50  0001 C CNN
@@ -2447,7 +2447,7 @@ boot
 Text Notes 15550 11050 2    50   ~ 0
 1.1
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0106
+L delight-pcb-rescue:GND-power #PWR0106
 U 1 1 5D525CFA
 P 8400 7700
 F 0 "#PWR0106" H 8400 7450 50  0001 C CNN
@@ -2465,7 +2465,7 @@ NoConn ~ 4575 9500
 NoConn ~ 4575 9700
 NoConn ~ 4575 9800
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0112
+L delight-pcb-rescue:GND-power #PWR0112
 U 1 1 5DA49277
 P 5650 9875
 F 0 "#PWR0112" H 5650 9625 50  0001 C CNN
@@ -2643,7 +2643,7 @@ Connection ~ 13350 4700
 Wire Wire Line
 	13350 4700 13350 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW44-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW44-2
 U 1 1 5DC1DEA4
 P 2350 4650
 F 0 "SW44-2" H 2350 4883 60  0000 C CNN
@@ -2670,7 +2670,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 4725 2050 4650
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW60-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW60-2
 U 1 1 5DC5E2A2
 P 3950 5900
 F 0 "SW60-2" H 3950 6133 60  0000 C CNN
@@ -2683,7 +2683,7 @@ $EndComp
 Wire Wire Line
 	4250 5900 4250 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW62-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW62-2
 U 1 1 5DC9EC8E
 P 5350 5925
 F 0 "SW62-2" H 5350 6158 60  0000 C CNN
@@ -2700,7 +2700,7 @@ Wire Wire Line
 	5650 5925 5650 5250
 Connection ~ 5650 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW63-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW63-2
 U 1 1 5DCE7558
 P 7450 5925
 F 0 "SW63-2" H 7450 6158 60  0000 C CNN
@@ -2717,7 +2717,7 @@ Wire Wire Line
 	7750 5925 7750 5250
 Connection ~ 7750 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW64-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW64-2
 U 1 1 5DD3207D
 P 9550 5900
 F 0 "SW64-2" H 9550 6133 60  0000 C CNN
@@ -2734,7 +2734,7 @@ Wire Wire Line
 	9850 5900 9850 5250
 Connection ~ 9850 5250
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW65-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW65-2
 U 1 1 5DD72960
 P 10250 5900
 F 0 "SW65-2" H 10250 6133 60  0000 C CNN
@@ -2751,7 +2751,7 @@ Wire Wire Line
 	10550 5900 10550 5250
 Connection ~ 10550 5250
 $Comp
-L discipline-pcb-rescue:ATmega32A-PU-MCU_Microchip_ATmega U1
+L delight-pcb-rescue:ATmega32A-PU-MCU_Microchip_ATmega U1
 U 1 1 5DF0B623
 P 3975 8700
 F 0 "U1" H 3825 8800 50  0000 C CNN
@@ -2763,7 +2763,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontr
 $EndComp
 Connection ~ 4075 6700
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW45
+L delight-pcb-rescue:KEYSW-keyboard_parts SW45
 U 1 1 5E1101F9
 P 3950 4700
 F 0 "SW45" H 3950 4933 60  0000 C CNN
@@ -2776,7 +2776,7 @@ $EndComp
 Wire Wire Line
 	4950 4700 4950 5250
 $Comp
-L discipline-pcb-rescue:D-Device D45
+L delight-pcb-rescue:D-Device D45
 U 1 1 5E12480E
 P 3650 4900
 F 0 "D45" V 3696 4821 50  0000 R CNN
@@ -2787,7 +2787,7 @@ F 3 "~" H 3650 4900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW28-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW28-2
 U 1 1 5E1BCA3A
 P 12350 3625
 F 0 "SW28-2" H 12350 3858 60  0000 C CNN
@@ -2804,7 +2804,7 @@ Wire Wire Line
 	12050 3625 12050 3500
 Connection ~ 12050 3500
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW42-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW42-2
 U 1 1 5E1F0136
 P 12350 4200
 F 0 "SW42-2" H 12350 4433 60  0000 C CNN
@@ -2821,7 +2821,7 @@ Wire Wire Line
 	12050 4200 12050 4100
 Connection ~ 12050 4100
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW59-2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW59-2
 U 1 1 5E225BFB
 P 2375 5250
 F 0 "SW59-2" H 2375 5483 60  0000 C CNN
@@ -2861,7 +2861,7 @@ RESET
 Text Notes 7975 9275 0    157  ~ 31
 POWER LED
 $Comp
-L discipline-pcb-rescue:Crystal_Small-Device Y1
+L delight-pcb-rescue:Crystal_Small-Device Y1
 U 1 1 5F0E7676
 P 2975 7300
 F 0 "Y1" V 2929 7388 50  0000 L CNN
@@ -2884,7 +2884,7 @@ Wire Wire Line
 	2825 7200 2825 7550
 Connection ~ 2975 7200
 $Comp
-L discipline-pcb-rescue:AVR-ISP-6-Connector J1
+L delight-pcb-rescue:AVR-ISP-6-Connector J1
 U 1 1 5D525B77
 P 8500 7300
 F 0 "J1" H 8700 7850 50  0000 R CNN
@@ -2902,7 +2902,7 @@ Wire Wire Line
 Wire Wire Line
 	6300 7200 6400 7200
 $Comp
-L discipline-pcb-rescue:GND-power #PWR0118
+L delight-pcb-rescue:GND-power #PWR0118
 U 1 1 5F36E439
 P 6600 7300
 F 0 "#PWR0118" H 6600 7050 50  0001 C CNN
@@ -2942,7 +2942,7 @@ Connection ~ 6700 7800
 Wire Wire Line
 	6700 7800 7000 7800
 $Comp
-L discipline-pcb-rescue:D_Zener_Small-Device D71
+L delight-pcb-rescue:D_Zener_Small-Device D71
 U 1 1 5D184D75
 P 6700 8000
 F 0 "D71" V 6600 8050 39  0000 L CNN
@@ -2965,7 +2965,7 @@ Wire Wire Line
 Wire Wire Line
 	4250 4100 4250 4700
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW0
+L delight-pcb-rescue:KEYSW-keyboard_parts SW0
 U 1 1 608CB369
 P 3250 2950
 F 0 "SW0" H 3250 3183 60  0000 C CNN
@@ -2980,7 +2980,7 @@ Wire Wire Line
 Wire Wire Line
 	2900 2950 2900 3000
 $Comp
-L discipline-pcb-rescue:D-Device D60
+L delight-pcb-rescue:D-Device D60
 U 1 1 5BE64C62
 P 3600 5450
 F 0 "D60" V 3646 5371 50  0000 R CNN
@@ -2998,7 +2998,7 @@ Wire Wire Line
 Wire Wire Line
 	6300 7000 6450 7000
 $Comp
-L discipline-pcb-rescue:VCC-power #PWR0105
+L delight-pcb-rescue:VCC-power #PWR0105
 U 1 1 5D2F7246
 P 6450 7000
 F 0 "#PWR0105" H 6450 6850 50  0001 C CNN
@@ -3010,7 +3010,7 @@ F 3 "" H 6450 7000 50  0001 C CNN
 $EndComp
 Connection ~ 6450 7000
 $Comp
-L discipline-pcb-rescue:D-Device D0
+L delight-pcb-rescue:D-Device D0
 U 1 1 608CC235
 P 2900 3150
 F 0 "D0" V 2946 3071 50  0000 R CNN
@@ -3049,7 +3049,7 @@ Wire Wire Line
 Wire Wire Line
 	4950 2900 4950 2950
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW2
+L delight-pcb-rescue:KEYSW-keyboard_parts SW2
 U 1 1 5BDB4A41
 P 4650 2950
 F 0 "SW2" H 4650 3183 60  0000 C CNN
@@ -3088,7 +3088,7 @@ Wire Wire Line
 Wire Wire Line
 	3650 2950 3600 2950
 $Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SW1
+L delight-pcb-rescue:KEYSW-keyboard_parts SW1
 U 1 1 5BDB3743
 P 3950 2950
 F 0 "SW1" H 3950 3183 60  0000 C CNN
