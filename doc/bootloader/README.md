@@ -1,4 +1,5 @@
 # Bootloader
+[To be updated] for DELIGHT
 
 ## If you buy a kit from cftkb.com your microcontroller already has the bootloader flashed and you do not need this.
 
