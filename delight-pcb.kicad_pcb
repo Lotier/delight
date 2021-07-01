@@ -9127,7 +9127,7 @@
   (gr_text 1.1 (at 393.0904 280.0604) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "DISCIPLINE - 65% keyboard assembled with only through hole components" (at 353.4156 261.2644) (layer Cmts.User)
+  (gr_text "DELIGHT - 65% keyboard assembled with only through hole components" (at 353.4156 261.2644) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 119.602918 72.965812) (end 119.84789 72.703342) (layer F.SilkS) (width 0.12) (tstamp 609506FE))

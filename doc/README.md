@@ -1,6 +1,4 @@
-# DISCIPLINE
-
-
+# DELIGHT Keyboard
 
 [Build Guide \[To be updated\]]()
 

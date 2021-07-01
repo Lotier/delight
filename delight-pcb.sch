@@ -1960,11 +1960,11 @@ col14
 Wire Wire Line
 	3600 5250 3600 5300
 Text Notes 11900 10050 0    50   ~ 0
-DISCIPLINE // 65% keyboard with only through hole components
+DELIGHT // 65% keyboard with only through hole components
 Text Notes 13000 11050 0    50   ~ 0
 1/1/2020
 Text Notes 12250 10900 0    50   ~ 0
-DISCIPLINE
+DELIGHT
 $Comp
 L discipline-pcb-rescue:KEYSW-keyboard_parts SW66
 U 1 1 5D067388
