@@ -1,0 +1,1 @@
+via https://github.com/coseyfannitutti/USBaspLoader/tree/atmega32a
