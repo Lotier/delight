@@ -10,7 +10,7 @@
 
 [Bootloader\[To be updated\]]()
 
-[BOM (Parts List)\[To be updated\]]()
+[BOM (Parts List)](BOM.csv)
 
 - Upload Bootloader ROM to chip 
   - Bootloader sources differs so we use a atmega32a chip, but otherwises it's just a standard atmega32 chip
