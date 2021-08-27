@@ -3,4 +3,5 @@
   (lib (name kailh)(type KiCad)(uri ${KIPRJMOD}/keyswitch-kicad-library/modules/Switch_Keyboard_Kailh.pretty)(options "")(descr ""))
   (lib (name cherrymx)(type KiCad)(uri ${KIPRJMOD}/keyswitch-kicad-library/modules/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
   (lib (name stabs)(type KiCad)(uri ${KIPRJMOD}/keyswitch-kicad-library/modules/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+  (lib (name project)(type KiCad)(uri ${KIPRJMOD}/octopart/eec.pretty)(options "")(descr ""))
 )
