@@ -9,7 +9,7 @@ import (
 
 func BuildCover() {
 	// you can define settings and the layout in JSON
-	json_bytes := []byte(`{"top-padding":0,"left-padding":0,"right-padding":0,"bottom-padding":0,"custom":[{"layers":["switch"],"op":"add","polygon":"custom-rounded-rectangle","radius":3,"width":284.13,"height":17.684,"rel_to":"[0,0]","points":"[0,0]"},{"layers":["switch"],"op":"cut","polygon":"custom-circle","diameter":2.2,"rel_to":"[0,0]","points":"[x-134.5,y-2.715];[x-134.5,y+8.715];[x-16.898,y-2.715];[x-16.898,y+8.715];[x+139.63,y-2.715];[x+139.63,y+8.715];"}]}`)
+	json_bytes := []byte(`{"top-padding":0,"left-padding":0,"right-padding":0,"bottom-padding":0,"custom":[{"layers":["switch"],"op":"add","polygon":"custom-rounded-rectangle","radius":3,"width":284.13,"height":17.684,"rel_to":"[0,0]","points":"[0,0]"},{"layers":["switch"],"op":"cut","polygon":"custom-circle","diameter":2.2,"rel_to":"[0,0]","points":"[x-137,y-2.715];[x-137,y+8.715];[x-19.398,y-2.715];[x-19.398,y+8.715];[x+141.13,y-2.715];[x+141.13,y+8.715];"}]}`)
 
 	// create a new KAD instance
 	cad := kad.New()
