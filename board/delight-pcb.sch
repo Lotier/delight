@@ -2317,7 +2317,7 @@ Text GLabel 8900 7300 2    50   Input ~ 0
 SCK
 Text GLabel 4575 8900 2    50   Input ~ 0
 row4
-Text GLabel 4575 10300 2    50   Input ~ 0
+Text GLabel 4575 10200 2    50   Input ~ 0
 row3
 Text GLabel 4575 10400 2    50   Input ~ 0
 row0
@@ -3106,6 +3106,6 @@ Text Label 3900 3100 0    50   ~ 0
 col0
 Text GLabel 4575 8800 2    50   Input ~ 0
 row1
-Text GLabel 4575 10200 2    50   Input ~ 0
+Text GLabel 4575 10300 2    50   Input ~ 0
 row2
 $EndSCHEMATC
