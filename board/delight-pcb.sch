@@ -1523,10 +1523,10 @@ F 3 "~" H 6500 7300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L delight-pcb-rescue:USB_C_Receptacle_USB2.0-Connector USB
+L delight-pcb-rescue:USB_C_Receptacle_USB2.0-Connector USB1
 U 1 1 5D127DE0
 P 5700 7600
-F 0 "USB" H 5700 8450 60  0000 C CNN
+F 0 "USB1" H 5700 8450 60  0000 C CNN
 F 1 "USB_C_GCT_USB4085" H 5700 8350 60  0000 C CNN
 F 2 "Connector_USB:USB_C_Receptacle_GCT_USB4085" H 5700 7600 60  0001 C CNN
 F 3 "" H 5700 7600 60  0001 C CNN
