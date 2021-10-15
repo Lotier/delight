@@ -33,6 +33,6 @@ func CreateLayout(inputFile string, itemName string) {
 	// lets draw the SVG files now
 	err = cad.Draw()
 	if err != nil {
-		log.Fatal("Failed to Draw the KAD file\nError: %s", err.Error())
+		log.Fatalf("Failed to Draw the KAD file\nError: %s", err.Error())
 	}
 }

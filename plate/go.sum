@@ -25,8 +25,8 @@ github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+o
 github.com/llgcode/draw2d v0.0.0-20180817132918-587a55234ca2 h1:3xDkT1Tbsw2yDtKWUrROAlr15+dzp76kwucDvAPPnQo=
 github.com/llgcode/draw2d v0.0.0-20180817132918-587a55234ca2/go.mod h1:mVa0dA29Db2S4LVqDYLlsePDzRJLDfdhVZiI15uY0FA=
 github.com/llgcode/ps v0.0.0-20150911083025-f1443b32eedb/go.mod h1:1l8ky+Ew27CMX29uG+a2hNOKpeNYEQjjtiALiBlFQbY=
-github.com/lotier/kad v0.0.0-20211010023043-2edcd182dc68 h1:c9gp+Hh2lJGn1DFlVgyonz9o8OL4TBNveW6+dn5E8k8=
-github.com/lotier/kad v0.0.0-20211010023043-2edcd182dc68/go.mod h1:wMxniPuT0bIhYw08fVDlAqgzi86XkB+jNs9EN3EdLcg=
+github.com/lotier/kad v0.0.0-20211015143524-4804282eb44f h1:PUqdy3msPgCa1h//EwjA982RA35m5myhrj9lcbYer4s=
+github.com/lotier/kad v0.0.0-20211015143524-4804282eb44f/go.mod h1:wMxniPuT0bIhYw08fVDlAqgzi86XkB+jNs9EN3EdLcg=
 github.com/ncw/swift v1.0.53 h1:luHjjTNtekIEvHg5KdAFIBaH7bWfNkefwFnpDffSIks=
 github.com/ncw/swift v1.0.53/go.mod h1:23YIA4yWVnGwv2dQlN4bB7egfYX6YLn0Yo/S6zZO/ZM=
 github.com/paulmach/orb v0.1.6/go.mod h1:pPwxxs3zoAyosNSbNKn1jiXV2+oovRDObDKfTvRegDI=

@@ -3,7 +3,8 @@
         "case-type": ""
     },
     "switch-type": 3,
-    "stab-type": 5,
+    "stab-type": 2,
+    "connected-stabs": false,
     "layout": [
         [
             {

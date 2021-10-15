@@ -1,0 +1,166 @@
+{
+    "case": {
+        "case-type": ""
+    },
+    "switch-type": 3,
+    "stab-type": 1,
+    "connected-stabs": false,
+    "layout": [
+        [
+            {
+                "a": 7
+            },
+            "esc"
+        ],
+        [
+            "",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "0",
+            "-",
+            ": ",
+            {
+                "w": 2
+            },
+            "backspace",
+            "home"
+        ],
+        [
+            {
+                "w": 1.5
+            },
+            "tab",
+            "q",
+            "w",
+            "e",
+            "r",
+            "t",
+            "y",
+            "u",
+            "i",
+            "o",
+            "p",
+            "[",
+            "]",
+            {
+                "w": 1.5
+            },
+            "\\",
+            "pgup"
+        ],
+        [
+            {
+                "w": 1.75
+            },
+            "cap",
+            "a",
+            "s",
+            "d",
+            "f",
+            "g",
+            "h",
+            "j",
+            "k",
+            "l",
+            ";",
+            "'",
+            {
+                "w": 2.25
+            },
+            "enter",
+            "pgdn"
+        ],
+        [
+            {
+                "w": 2.25
+            },
+            "shift",
+            "z",
+            "x",
+            "c",
+            "v",
+            "b",
+            "n",
+            "m",
+            ",",
+            ".",
+            "/",
+            {
+                "w": 1.75
+            },
+            "shift",
+            "up",
+            "end"
+        ],
+        [
+            {
+                "w": 1.25
+            },
+            "ctrl",
+            {
+                "w": 1.25
+            },
+            "win",
+            {
+                "w": 1.25
+            },
+            "alt",
+            {
+                "w": 6.25
+            },
+            "",
+            "alt",
+            "fn",
+            "ctrl",
+            "left",
+            "down",
+            "right"
+        ]
+    ],
+    "top-padding": 0,
+    "left-padding": 0,
+    "right-padding": 0,
+    "bottom-padding": 0,
+    "custom": [
+        {
+            "layers": [
+                "switch"
+            ],
+            "op": "cut",
+            "polygon": "custom-rounded-rectangle",
+            "radius": 3,
+            "width": 300,
+            "height": 21,
+            "rel_to": "[0,0]",
+            "points": "[-x+169,-y+9]"
+        },
+        {
+            "layers": [
+                "switch"
+            ],
+            "op": "cut",
+            "polygon": "custom-superellipse",
+            "radius": 3,
+            "rel_to": "[0,0]",
+            "points": "[-x+19,-y];[x,-y+19]"
+        },
+        {
+            "layers": [
+                "switch"
+            ],
+            "op": "cut",
+            "polygon": "custom-circle",
+            "diameter": 4,
+            "rel_to": "[0,0]",
+            "points": "[-x+25.65,-y+56.64];[-x+25.65,-y+96.01];[-x+143.25,-y+56.64];[-x+143.25,-y+96.01];[-x+286.00,-y+56.64];[-x+286.00,-y+96.01]"
+        }
+    ],
+    "fillet": 3
+}
