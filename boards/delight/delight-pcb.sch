@@ -19,7 +19,7 @@ U 1 1 5BDAA9A5
 P 3250 3500
 F 0 "SW15" H 3250 3733 60  0000 C CNN
 F 1 "KEYSW" H 3250 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3250 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 3250 3500 60  0001 C CNN
 F 3 "" H 3250 3500 60  0000 C CNN
 	1    3250 3500
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 5BDB5E7B
 P 5350 2950
 F 0 "SW3" H 5350 3183 60  0000 C CNN
 F 1 "KEYSW" H 5350 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 5350 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 5350 2950 60  0001 C CNN
 F 3 "" H 5350 2950 60  0000 C CNN
 	1    5350 2950
 	1    0    0    -1  
@@ -85,7 +85,7 @@ U 1 1 5BDB746A
 P 6050 2950
 F 0 "SW4" H 6050 3183 60  0000 C CNN
 F 1 "KEYSW" H 6050 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6050 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6050 2950 60  0001 C CNN
 F 3 "" H 6050 2950 60  0000 C CNN
 	1    6050 2950
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 5BDB8AF4
 P 6750 2950
 F 0 "SW5" H 6750 3183 60  0000 C CNN
 F 1 "KEYSW" H 6750 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6750 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6750 2950 60  0001 C CNN
 F 3 "" H 6750 2950 60  0000 C CNN
 	1    6750 2950
 	1    0    0    -1  
@@ -129,7 +129,7 @@ U 1 1 5BDBA2A7
 P 7450 2950
 F 0 "SW6" H 7450 3183 60  0000 C CNN
 F 1 "KEYSW" H 7450 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7450 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 7450 2950 60  0001 C CNN
 F 3 "" H 7450 2950 60  0000 C CNN
 	1    7450 2950
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 5BDC4F87
 P 8150 2950
 F 0 "SW7" H 8150 3183 60  0000 C CNN
 F 1 "KEYSW" H 8150 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8150 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8150 2950 60  0001 C CNN
 F 3 "" H 8150 2950 60  0000 C CNN
 	1    8150 2950
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 5BDC6958
 P 8850 2950
 F 0 "SW8" H 8850 3183 60  0000 C CNN
 F 1 "KEYSW" H 8850 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8850 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8850 2950 60  0001 C CNN
 F 3 "" H 8850 2950 60  0000 C CNN
 	1    8850 2950
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 5BDC8400
 P 9550 2950
 F 0 "SW9" H 9550 3183 60  0000 C CNN
 F 1 "KEYSW" H 9550 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 9550 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 9550 2950 60  0001 C CNN
 F 3 "" H 9550 2950 60  0000 C CNN
 	1    9550 2950
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 5BDC9FAD
 P 10250 2950
 F 0 "SW10" H 10250 3183 60  0000 C CNN
 F 1 "KEYSW" H 10250 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10250 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10250 2950 60  0001 C CNN
 F 3 "" H 10250 2950 60  0000 C CNN
 	1    10250 2950
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 5BDCBC8D
 P 10950 2950
 F 0 "SW11" H 10950 3183 60  0000 C CNN
 F 1 "KEYSW" H 10950 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10950 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10950 2950 60  0001 C CNN
 F 3 "" H 10950 2950 60  0000 C CNN
 	1    10950 2950
 	1    0    0    -1  
@@ -261,7 +261,7 @@ U 1 1 5BDCDA46
 P 11650 2950
 F 0 "SW12" H 11650 3183 60  0000 C CNN
 F 1 "KEYSW" H 11650 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 11650 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 11650 2950 60  0001 C CNN
 F 3 "" H 11650 2950 60  0000 C CNN
 	1    11650 2950
 	1    0    0    -1  
@@ -283,7 +283,7 @@ U 1 1 5BDCF8D2
 P 12350 2950
 F 0 "SW13" H 12350 3183 60  0000 C CNN
 F 1 "KEYSW" H 12350 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_2.00u" H 12350 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_2.00u" H 12350 2950 60  0001 C CNN
 F 3 "" H 12350 2950 60  0000 C CNN
 	1    12350 2950
 	1    0    0    -1  
@@ -305,7 +305,7 @@ U 1 1 5BDD186B
 P 13050 2950
 F 0 "SW14" H 13050 3183 60  0000 C CNN
 F 1 "KEYSW" H 13050 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 13050 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 13050 2950 60  0001 C CNN
 F 3 "" H 13050 2950 60  0000 C CNN
 	1    13050 2950
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 5BDD4A79
 P 3250 4100
 F 0 "SW30" H 3250 4333 60  0000 C CNN
 F 1 "KEYSW" H 3250 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.50u" H 3250 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.50u" H 3250 4100 60  0001 C CNN
 F 3 "" H 3250 4100 60  0000 C CNN
 	1    3250 4100
 	1    0    0    -1  
@@ -349,7 +349,7 @@ U 1 1 5BDD4A89
 P 3950 3500
 F 0 "SW16" H 3950 3733 60  0000 C CNN
 F 1 "KEYSW" H 3950 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3950 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 3950 3500 60  0001 C CNN
 F 3 "" H 3950 3500 60  0000 C CNN
 	1    3950 3500
 	1    0    0    -1  
@@ -371,7 +371,7 @@ U 1 1 5BDD4A99
 P 4650 3500
 F 0 "SW17" H 4650 3733 60  0000 C CNN
 F 1 "KEYSW" H 4650 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4650 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 4650 3500 60  0001 C CNN
 F 3 "" H 4650 3500 60  0000 C CNN
 	1    4650 3500
 	1    0    0    -1  
@@ -393,7 +393,7 @@ U 1 1 5BDD4AA9
 P 5350 3500
 F 0 "SW18" H 5350 3733 60  0000 C CNN
 F 1 "KEYSW" H 5350 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 5350 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 5350 3500 60  0001 C CNN
 F 3 "" H 5350 3500 60  0000 C CNN
 	1    5350 3500
 	1    0    0    -1  
@@ -415,7 +415,7 @@ U 1 1 5BDD4AB9
 P 6050 3500
 F 0 "SW19" H 6050 3733 60  0000 C CNN
 F 1 "KEYSW" H 6050 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6050 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6050 3500 60  0001 C CNN
 F 3 "" H 6050 3500 60  0000 C CNN
 	1    6050 3500
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 5BDD4AC9
 P 6750 3500
 F 0 "SW20" H 6750 3733 60  0000 C CNN
 F 1 "KEYSW" H 6750 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6750 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6750 3500 60  0001 C CNN
 F 3 "" H 6750 3500 60  0000 C CNN
 	1    6750 3500
 	1    0    0    -1  
@@ -459,7 +459,7 @@ U 1 1 5BDD4AD9
 P 7450 3500
 F 0 "SW21" H 7450 3733 60  0000 C CNN
 F 1 "KEYSW" H 7450 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7450 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 7450 3500 60  0001 C CNN
 F 3 "" H 7450 3500 60  0000 C CNN
 	1    7450 3500
 	1    0    0    -1  
@@ -481,7 +481,7 @@ U 1 1 5BDD4AE9
 P 8150 3500
 F 0 "SW22" H 8150 3733 60  0000 C CNN
 F 1 "KEYSW" H 8150 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8150 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8150 3500 60  0001 C CNN
 F 3 "" H 8150 3500 60  0000 C CNN
 	1    8150 3500
 	1    0    0    -1  
@@ -503,7 +503,7 @@ U 1 1 5BDD4AF9
 P 8850 3500
 F 0 "SW23" H 8850 3733 60  0000 C CNN
 F 1 "KEYSW" H 8850 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8850 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8850 3500 60  0001 C CNN
 F 3 "" H 8850 3500 60  0000 C CNN
 	1    8850 3500
 	1    0    0    -1  
@@ -525,7 +525,7 @@ U 1 1 5BDD4B09
 P 9550 3500
 F 0 "SW24" H 9550 3733 60  0000 C CNN
 F 1 "KEYSW" H 9550 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 9550 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 9550 3500 60  0001 C CNN
 F 3 "" H 9550 3500 60  0000 C CNN
 	1    9550 3500
 	1    0    0    -1  
@@ -547,7 +547,7 @@ U 1 1 5BDD4B19
 P 10250 3500
 F 0 "SW25" H 10250 3733 60  0000 C CNN
 F 1 "KEYSW" H 10250 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10250 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10250 3500 60  0001 C CNN
 F 3 "" H 10250 3500 60  0000 C CNN
 	1    10250 3500
 	1    0    0    -1  
@@ -569,7 +569,7 @@ U 1 1 5BDD4B29
 P 10950 3500
 F 0 "SW26" H 10950 3733 60  0000 C CNN
 F 1 "KEYSW" H 10950 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10950 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10950 3500 60  0001 C CNN
 F 3 "" H 10950 3500 60  0000 C CNN
 	1    10950 3500
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5BDD4B39
 P 11650 3500
 F 0 "SW27" H 11650 3733 60  0000 C CNN
 F 1 "KEYSW" H 11650 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 11650 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 11650 3500 60  0001 C CNN
 F 3 "" H 11650 3500 60  0000 C CNN
 	1    11650 3500
 	1    0    0    -1  
@@ -606,6 +606,17 @@ F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11950 3700 50  0001 C CNN
 F 3 "~" H 11950 3700 50  0001 C CNN
 	1    11950 3700
 	0    -1   -1   0   
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW28
+U 1 1 5BDD4B49
+P 12350 3500
+F 0 "SW28" H 12350 3733 60  0000 C CNN
+F 1 "KEYSW" H 12350 3400 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.50u" H 12350 3500 60  0001 C CNN
+F 3 "" H 12350 3500 60  0000 C CNN
+	1    12350 3500
+	1    0    0    -1  
 $EndComp
 $Comp
 L delight-pcb-rescue:D-Device D28
@@ -624,7 +635,7 @@ U 1 1 5BDD4B59
 P 13050 3500
 F 0 "SW29" H 13050 3733 60  0000 C CNN
 F 1 "KEYSW" H 13050 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 13050 3500 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 13050 3500 60  0001 C CNN
 F 3 "" H 13050 3500 60  0000 C CNN
 	1    13050 3500
 	1    0    0    -1  
@@ -657,7 +668,7 @@ U 1 1 5BE2E3A3
 P 3950 4100
 F 0 "SW31" H 3950 4333 60  0000 C CNN
 F 1 "KEYSW" H 3950 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3950 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 3950 4100 60  0001 C CNN
 F 3 "" H 3950 4100 60  0000 C CNN
 	1    3950 4100
 	1    0    0    -1  
@@ -679,7 +690,7 @@ U 1 1 5BE2E3B3
 P 4650 4100
 F 0 "SW32" H 4650 4333 60  0000 C CNN
 F 1 "KEYSW" H 4650 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4650 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 4650 4100 60  0001 C CNN
 F 3 "" H 4650 4100 60  0000 C CNN
 	1    4650 4100
 	1    0    0    -1  
@@ -701,7 +712,7 @@ U 1 1 5BE2E3C3
 P 5350 4100
 F 0 "SW33" H 5350 4333 60  0000 C CNN
 F 1 "KEYSW" H 5350 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 5350 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 5350 4100 60  0001 C CNN
 F 3 "" H 5350 4100 60  0000 C CNN
 	1    5350 4100
 	1    0    0    -1  
@@ -723,7 +734,7 @@ U 1 1 5BE2E3D3
 P 6050 4100
 F 0 "SW34" H 6050 4333 60  0000 C CNN
 F 1 "KEYSW" H 6050 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6050 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6050 4100 60  0001 C CNN
 F 3 "" H 6050 4100 60  0000 C CNN
 	1    6050 4100
 	1    0    0    -1  
@@ -745,7 +756,7 @@ U 1 1 5BE2E3E3
 P 6750 4100
 F 0 "SW35" H 6750 4333 60  0000 C CNN
 F 1 "KEYSW" H 6750 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6750 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6750 4100 60  0001 C CNN
 F 3 "" H 6750 4100 60  0000 C CNN
 	1    6750 4100
 	1    0    0    -1  
@@ -767,7 +778,7 @@ U 1 1 5BE2E3F3
 P 7450 4100
 F 0 "SW36" H 7450 4333 60  0000 C CNN
 F 1 "KEYSW" H 7450 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7450 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 7450 4100 60  0001 C CNN
 F 3 "" H 7450 4100 60  0000 C CNN
 	1    7450 4100
 	1    0    0    -1  
@@ -789,7 +800,7 @@ U 1 1 5BE2E403
 P 8150 4100
 F 0 "SW37" H 8150 4333 60  0000 C CNN
 F 1 "KEYSW" H 8150 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8150 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8150 4100 60  0001 C CNN
 F 3 "" H 8150 4100 60  0000 C CNN
 	1    8150 4100
 	1    0    0    -1  
@@ -811,7 +822,7 @@ U 1 1 5BE2E413
 P 8850 4100
 F 0 "SW38" H 8850 4333 60  0000 C CNN
 F 1 "KEYSW" H 8850 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8850 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8850 4100 60  0001 C CNN
 F 3 "" H 8850 4100 60  0000 C CNN
 	1    8850 4100
 	1    0    0    -1  
@@ -833,7 +844,7 @@ U 1 1 5BE2E423
 P 9550 4100
 F 0 "SW39" H 9550 4333 60  0000 C CNN
 F 1 "KEYSW" H 9550 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 9550 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 9550 4100 60  0001 C CNN
 F 3 "" H 9550 4100 60  0000 C CNN
 	1    9550 4100
 	1    0    0    -1  
@@ -855,7 +866,7 @@ U 1 1 5BE2E433
 P 10250 4100
 F 0 "SW40" H 10250 4333 60  0000 C CNN
 F 1 "KEYSW" H 10250 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10250 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10250 4100 60  0001 C CNN
 F 3 "" H 10250 4100 60  0000 C CNN
 	1    10250 4100
 	1    0    0    -1  
@@ -877,7 +888,7 @@ U 1 1 5BE2E443
 P 10950 4100
 F 0 "SW41" H 10950 4333 60  0000 C CNN
 F 1 "KEYSW" H 10950 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10950 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10950 4100 60  0001 C CNN
 F 3 "" H 10950 4100 60  0000 C CNN
 	1    10950 4100
 	1    0    0    -1  
@@ -899,7 +910,7 @@ U 1 1 5BE2E453
 P 12350 4100
 F 0 "SW42" H 12350 4333 60  0000 C CNN
 F 1 "KEYSW" H 12350 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_2.25u" H 12350 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_2.25u" H 12350 4100 60  0001 C CNN
 F 3 "" H 12350 4100 60  0000 C CNN
 	1    12350 4100
 	1    0    0    -1  
@@ -921,7 +932,7 @@ U 1 1 5BE2E463
 P 13050 4100
 F 0 "SW43" H 13050 4333 60  0000 C CNN
 F 1 "KEYSW" H 13050 4000 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 13050 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 13050 4100 60  0001 C CNN
 F 3 "" H 13050 4100 60  0000 C CNN
 	1    13050 4100
 	1    0    0    -1  
@@ -943,7 +954,7 @@ U 1 1 5BE34833
 P 3250 5250
 F 0 "SW59" H 3250 5483 60  0000 C CNN
 F 1 "KEYSW" H 3250 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_2.25u" H 3250 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_2.25u" H 3250 5250 60  0001 C CNN
 F 3 "" H 3250 5250 60  0000 C CNN
 	1    3250 5250
 	1    0    0    -1  
@@ -954,7 +965,7 @@ U 1 1 5BE34843
 P 4650 4700
 F 0 "SW46" H 4650 4933 60  0000 C CNN
 F 1 "KEYSW" H 4650 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4650 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 4650 4700 60  0001 C CNN
 F 3 "" H 4650 4700 60  0000 C CNN
 	1    4650 4700
 	1    0    0    -1  
@@ -976,7 +987,7 @@ U 1 1 5BE34853
 P 5350 4700
 F 0 "SW47" H 5350 4933 60  0000 C CNN
 F 1 "KEYSW" H 5350 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 5350 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 5350 4700 60  0001 C CNN
 F 3 "" H 5350 4700 60  0000 C CNN
 	1    5350 4700
 	1    0    0    -1  
@@ -998,7 +1009,7 @@ U 1 1 5BE34863
 P 6050 4700
 F 0 "SW48" H 6050 4933 60  0000 C CNN
 F 1 "KEYSW" H 6050 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6050 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6050 4700 60  0001 C CNN
 F 3 "" H 6050 4700 60  0000 C CNN
 	1    6050 4700
 	1    0    0    -1  
@@ -1020,7 +1031,7 @@ U 1 1 5BE34873
 P 6750 4700
 F 0 "SW49" H 6750 4933 60  0000 C CNN
 F 1 "KEYSW" H 6750 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6750 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 6750 4700 60  0001 C CNN
 F 3 "" H 6750 4700 60  0000 C CNN
 	1    6750 4700
 	1    0    0    -1  
@@ -1042,7 +1053,7 @@ U 1 1 5BE34883
 P 7450 4700
 F 0 "SW50" H 7450 4933 60  0000 C CNN
 F 1 "KEYSW" H 7450 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7450 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 7450 4700 60  0001 C CNN
 F 3 "" H 7450 4700 60  0000 C CNN
 	1    7450 4700
 	1    0    0    -1  
@@ -1064,7 +1075,7 @@ U 1 1 5BE34893
 P 8150 4700
 F 0 "SW51" H 8150 4933 60  0000 C CNN
 F 1 "KEYSW" H 8150 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8150 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8150 4700 60  0001 C CNN
 F 3 "" H 8150 4700 60  0000 C CNN
 	1    8150 4700
 	1    0    0    -1  
@@ -1086,7 +1097,7 @@ U 1 1 5BE348A3
 P 8850 4700
 F 0 "SW52" H 8850 4933 60  0000 C CNN
 F 1 "KEYSW" H 8850 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8850 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 8850 4700 60  0001 C CNN
 F 3 "" H 8850 4700 60  0000 C CNN
 	1    8850 4700
 	1    0    0    -1  
@@ -1108,7 +1119,7 @@ U 1 1 5BE348B3
 P 9550 4700
 F 0 "SW53" H 9550 4933 60  0000 C CNN
 F 1 "KEYSW" H 9550 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 9550 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 9550 4700 60  0001 C CNN
 F 3 "" H 9550 4700 60  0000 C CNN
 	1    9550 4700
 	1    0    0    -1  
@@ -1130,7 +1141,7 @@ U 1 1 5BE348C3
 P 10250 4700
 F 0 "SW54" H 10250 4933 60  0000 C CNN
 F 1 "KEYSW" H 10250 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10250 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10250 4700 60  0001 C CNN
 F 3 "" H 10250 4700 60  0000 C CNN
 	1    10250 4700
 	1    0    0    -1  
@@ -1152,7 +1163,7 @@ U 1 1 5BE348D3
 P 10950 4700
 F 0 "SW55" H 10950 4933 60  0000 C CNN
 F 1 "KEYSW" H 10950 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10950 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10950 4700 60  0001 C CNN
 F 3 "" H 10950 4700 60  0000 C CNN
 	1    10950 4700
 	1    0    0    -1  
@@ -1174,7 +1185,7 @@ U 1 1 5BE348E3
 P 11650 4700
 F 0 "SW56" H 11650 4933 60  0000 C CNN
 F 1 "KEYSW" H 11650 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.75u" H 11650 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.75u" H 11650 4700 60  0001 C CNN
 F 3 "" H 11650 4700 60  0000 C CNN
 	1    11650 4700
 	1    0    0    -1  
@@ -1196,7 +1207,7 @@ U 1 1 5BE348F3
 P 12350 4700
 F 0 "SW57" H 12350 4933 60  0000 C CNN
 F 1 "KEYSW" H 12350 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 12350 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 12350 4700 60  0001 C CNN
 F 3 "" H 12350 4700 60  0000 C CNN
 	1    12350 4700
 	1    0    0    -1  
@@ -1218,7 +1229,7 @@ U 1 1 5BE34903
 P 13050 4700
 F 0 "SW58" H 13050 4933 60  0000 C CNN
 F 1 "KEYSW" H 13050 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 13050 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 13050 4700 60  0001 C CNN
 F 3 "" H 13050 4700 60  0000 C CNN
 	1    13050 4700
 	1    0    0    -1  
@@ -1240,7 +1251,7 @@ U 1 1 5BE64C5B
 P 3950 5250
 F 0 "SW60" H 3950 5483 60  0000 C CNN
 F 1 "KEYSW" H 3950 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.25u" H 3950 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.25u" H 3950 5250 60  0001 C CNN
 F 3 "" H 3950 5250 60  0000 C CNN
 	1    3950 5250
 	1    0    0    -1  
@@ -1251,7 +1262,7 @@ U 1 1 5BE64C6A
 P 4650 5250
 F 0 "SW61" H 4650 5483 60  0000 C CNN
 F 1 "KEYSW" H 4650 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.25u" H 4650 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.25u" H 4650 5250 60  0001 C CNN
 F 3 "" H 4650 5250 60  0000 C CNN
 	1    4650 5250
 	1    0    0    -1  
@@ -1273,7 +1284,7 @@ U 1 1 5BE64C7A
 P 5350 5250
 F 0 "SW62" H 5350 5483 60  0000 C CNN
 F 1 "KEYSW" H 5350 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.25u" H 5350 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.25u" H 5350 5250 60  0001 C CNN
 F 3 "" H 5350 5250 60  0000 C CNN
 	1    5350 5250
 	1    0    0    -1  
@@ -1295,7 +1306,7 @@ U 1 1 5BE7F31E
 P 7450 5250
 F 0 "SW63" H 7450 5483 60  0000 C CNN
 F 1 "KEYSW" H 7450 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_6.25u" H 7450 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_6.25u" H 7450 5250 60  0001 C CNN
 F 3 "" H 7450 5250 60  0000 C CNN
 	1    7450 5250
 	1    0    0    -1  
@@ -1317,7 +1328,7 @@ U 1 1 5BE881B1
 P 9550 5250
 F 0 "SW64" H 9550 5483 60  0000 C CNN
 F 1 "KEYSW" H 9550 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 9550 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 9550 5250 60  0001 C CNN
 F 3 "" H 9550 5250 60  0000 C CNN
 	1    9550 5250
 	1    0    0    -1  
@@ -1339,7 +1350,7 @@ U 1 1 5BE881C1
 P 10250 5250
 F 0 "SW65" H 10250 5483 60  0000 C CNN
 F 1 "KEYSW" H 10250 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10250 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10250 5250 60  0001 C CNN
 F 3 "" H 10250 5250 60  0000 C CNN
 	1    10250 5250
 	1    0    0    -1  
@@ -1361,7 +1372,7 @@ U 1 1 5BE881D1
 P 11650 5250
 F 0 "SW67" H 11650 5483 60  0000 C CNN
 F 1 "KEYSW" H 11650 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 11650 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 11650 5250 60  0001 C CNN
 F 3 "" H 11650 5250 60  0000 C CNN
 	1    11650 5250
 	1    0    0    -1  
@@ -1383,7 +1394,7 @@ U 1 1 5BE881E1
 P 12350 5250
 F 0 "SW68" H 12350 5483 60  0000 C CNN
 F 1 "KEYSW" H 12350 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 12350 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 12350 5250 60  0001 C CNN
 F 3 "" H 12350 5250 60  0000 C CNN
 	1    12350 5250
 	1    0    0    -1  
@@ -1405,7 +1416,7 @@ U 1 1 5BE881F1
 P 13050 5250
 F 0 "SW69" H 13050 5483 60  0000 C CNN
 F 1 "KEYSW" H 13050 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 13050 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 13050 5250 60  0001 C CNN
 F 3 "" H 13050 5250 60  0000 C CNN
 	1    13050 5250
 	1    0    0    -1  
@@ -1460,18 +1471,18 @@ col13
 Text GLabel 12750 2850 1    50   Input ~ 0
 col14
 Text Notes 11900 10050 0    50   ~ 0
-DEATCH // 65% keyboard with through hole components and hotswap switches (ANSI)
+DELIGHT // 65% keyboard with only through hole components
 Text Notes 13000 11050 0    50   ~ 0
 1/1/2020
 Text Notes 12250 10900 0    50   ~ 0
-DETACH
+DELIGHT
 $Comp
 L delight-pcb-rescue:KEYSW-keyboard_parts SW66
 U 1 1 5D067388
 P 10950 5250
 F 0 "SW66" H 10950 5483 60  0000 C CNN
 F 1 "KEYSW" H 10950 5150 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10950 5250 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 10950 5250 60  0001 C CNN
 F 3 "" H 10950 5250 60  0000 C CNN
 	1    10950 5250
 	1    0    0    -1  
@@ -1928,7 +1939,7 @@ boot
 Text GLabel 4575 10100 2    50   Input ~ 0
 boot
 Text Notes 15550 11050 2    50   ~ 0
-1.0
+1.1
 $Comp
 L delight-pcb-rescue:GND-power #PWR0106
 U 1 1 5D525CFA
@@ -1963,6 +1974,61 @@ Wire Wire Line
 Wire Wire Line
 	12650 4100 12650 4150
 $Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW44-2
+U 1 1 5DC1DEA4
+P 2350 4650
+F 0 "SW44-2" H 2350 4883 60  0000 C CNN
+F 1 "KEYSW" H 2350 4550 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.25u" H 2350 4650 60  0001 C CNN
+F 3 "" H 2350 4650 60  0000 C CNN
+	1    2350 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW60-2
+U 1 1 5DC5E2A2
+P 3950 5900
+F 0 "SW60-2" H 3950 6133 60  0000 C CNN
+F 1 "KEYSW" H 3950 5800 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.50u" H 3950 5900 60  0001 C CNN
+F 3 "" H 3950 5900 60  0000 C CNN
+	1    3950 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW62-2
+U 1 1 5DC9EC8E
+P 5350 5900
+F 0 "SW62-2" H 5350 6133 60  0000 C CNN
+F 1 "KEYSW" H 5350 5800 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.50u" H 5350 5900 60  0001 C CNN
+F 3 "" H 5350 5900 60  0000 C CNN
+	1    5350 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW63-2
+U 1 1 5DCE7558
+P 7450 5900
+F 0 "SW63-2" H 7450 6133 60  0000 C CNN
+F 1 "KEYSW" H 7450 5800 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_7.00u" H 7450 5900 60  0001 C CNN
+F 3 "" H 7450 5900 60  0000 C CNN
+	1    7450 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW65-2
+U 1 1 5DD72960
+P 10250 5900
+F 0 "SW65-2" H 10250 6133 60  0000 C CNN
+F 1 "KEYSW" H 10250 5800 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.50u" H 10250 5900 60  0001 C CNN
+F 3 "" H 10250 5900 60  0000 C CNN
+	1    10250 5900
+	1    0    0    -1  
+$EndComp
+$Comp
 L delight-pcb-rescue:ATmega32A-PU-MCU_Microchip_ATmega U1
 U 1 1 5DF0B623
 P 3975 8700
@@ -1974,6 +2040,50 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontr
 	1    0    0    -1  
 $EndComp
 Connection ~ 4075 6700
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW45
+U 1 1 5E1101F9
+P 3950 4700
+F 0 "SW45" H 3950 4933 60  0000 C CNN
+F 1 "KEYSW" H 3950 4600 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 3950 4700 60  0001 C CNN
+F 3 "" H 3950 4700 60  0000 C CNN
+	1    3950 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:D-Device D45
+U 1 1 5E12480E
+P 4250 4900
+F 0 "D45" V 4296 4821 50  0000 R CNN
+F 1 " " V 4205 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4250 4900 50  0001 C CNN
+F 3 "~" H 4250 4900 50  0001 C CNN
+	1    4250 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW28-2
+U 1 1 5E1BCA3A
+P 12350 3625
+F 0 "SW28-2" H 12350 3858 60  0000 C CNN
+F 1 "KEYSW" H 12350 3525 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_Plate_ISOEnter" H 12350 3625 60  0001 C CNN
+F 3 "" H 12350 3625 60  0000 C CNN
+	1    12350 3625
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW42-2
+U 1 1 5E1F0136
+P 12350 4200
+F 0 "SW42-2" H 12350 4433 60  0000 C CNN
+F 1 "KEYSW" H 12350 4100 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 12350 4200 60  0001 C CNN
+F 3 "" H 12350 4200 60  0000 C CNN
+	1    12350 4200
+	1    0    0    -1  
+$EndComp
 Text Notes 3725 6500 0    157  ~ 31
 MCU
 Text Notes 6050 6550 0    157  ~ 31
@@ -2084,7 +2194,7 @@ U 1 1 608CB369
 P 3250 2950
 F 0 "SW0" H 3250 3183 60  0000 C CNN
 F 1 "KEYSW" H 3250 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3250 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 3250 2950 60  0001 C CNN
 F 3 "" H 3250 2950 60  0000 C CNN
 	1    3250 2950
 	1    0    0    -1  
@@ -2135,7 +2245,7 @@ U 1 1 5BDB3743
 P 3950 2950
 F 0 "SW1" H 3950 3183 60  0000 C CNN
 F 1 "KEYSW" H 3950 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3950 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 3950 2950 60  0001 C CNN
 F 3 "" H 3950 2950 60  0000 C CNN
 	1    3950 2950
 	1    0    0    -1  
@@ -2154,9 +2264,20 @@ U 1 1 5BDB4A41
 P 4650 2950
 F 0 "SW2" H 4650 3183 60  0000 C CNN
 F 1 "KEYSW" H 4650 2850 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4650 2950 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.00u" H 4650 2950 60  0001 C CNN
 F 3 "" H 4650 2950 60  0000 C CNN
 	1    4650 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW64-2
+U 1 1 5DD3207D
+P 9550 5900
+F 0 "SW64-2" H 9550 6133 60  0000 C CNN
+F 1 "KEYSW" H 9550 5800 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.50u" H 9550 5900 60  0001 C CNN
+F 3 "" H 9550 5900 60  0000 C CNN
+	1    9550 5900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2170,6 +2291,9 @@ F 3 "~" H 3550 5450 50  0001 C CNN
 	1    3550 5450
 	0    -1   -1   0   
 $EndComp
+Connection ~ 12650 4150
+Wire Wire Line
+	12650 4150 12650 4200
 Wire Wire Line
 	2950 2850 2950 2950
 Wire Wire Line
@@ -2188,6 +2312,14 @@ Connection ~ 3650 3500
 Wire Wire Line
 	3650 3500 3650 4100
 Connection ~ 3650 4100
+Wire Wire Line
+	3650 4100 3650 4700
+Connection ~ 3650 4700
+Wire Wire Line
+	3650 4700 3650 5250
+Connection ~ 3650 5250
+Wire Wire Line
+	3650 5250 3650 5900
 Wire Wire Line
 	4350 2850 4350 2950
 Connection ~ 4350 2950
@@ -2216,6 +2348,9 @@ Wire Wire Line
 Connection ~ 5050 4700
 Wire Wire Line
 	5050 4700 5050 5250
+Connection ~ 5050 5250
+Wire Wire Line
+	5050 5250 5050 5900
 Wire Wire Line
 	5750 2850 5750 2950
 Connection ~ 5750 2950
@@ -2252,6 +2387,9 @@ Wire Wire Line
 Connection ~ 7150 4700
 Wire Wire Line
 	7150 4700 7150 5250
+Connection ~ 7150 5250
+Wire Wire Line
+	7150 5250 7150 5900
 Wire Wire Line
 	7850 2850 7850 2950
 Connection ~ 7850 2950
@@ -2288,6 +2426,9 @@ Wire Wire Line
 Connection ~ 9250 4700
 Wire Wire Line
 	9250 4700 9250 5250
+Connection ~ 9250 5250
+Wire Wire Line
+	9250 5250 9250 5900
 Wire Wire Line
 	9950 2850 9950 2950
 Connection ~ 9950 2950
@@ -2302,6 +2443,9 @@ Wire Wire Line
 Connection ~ 9950 4700
 Wire Wire Line
 	9950 4700 9950 5250
+Connection ~ 9950 5250
+Wire Wire Line
+	9950 5250 9950 5900
 Wire Wire Line
 	10650 2850 10650 2950
 Connection ~ 10650 2950
@@ -2330,7 +2474,20 @@ Wire Wire Line
 Wire Wire Line
 	12050 2850 12050 2950
 Connection ~ 12050 2950
+Wire Wire Line
+	12050 2950 12050 3500
+Connection ~ 12050 3500
+Wire Wire Line
+	12050 3500 12050 3625
+Connection ~ 12050 3625
+Wire Wire Line
+	12050 3625 12050 4100
 Connection ~ 12050 4100
+Wire Wire Line
+	12050 4100 12050 4200
+Connection ~ 12050 4200
+Wire Wire Line
+	12050 4200 12050 4700
 Connection ~ 12050 4700
 Wire Wire Line
 	12050 4700 12050 5250
@@ -2424,6 +2581,9 @@ Wire Wire Line
 	12650 3300 13350 3300
 Wire Wire Line
 	13350 3500 13350 3550
+Connection ~ 12650 3550
+Wire Wire Line
+	12650 3550 12650 3625
 Wire Wire Line
 	11950 3500 11950 3550
 Wire Wire Line
@@ -2566,21 +2726,65 @@ Wire Wire Line
 	2950 4700 2950 5250
 Wire Wire Line
 	2950 4100 2950 4700
+Wire Wire Line
+	3550 4600 3550 4700
+Wire Wire Line
+	2650 4600 2650 4650
 $Comp
 L delight-pcb-rescue:KEYSW-keyboard_parts SW44
 U 1 1 5BE2E393
 P 3250 4700
 F 0 "SW44" H 3250 4933 60  0000 C CNN
 F 1 "KEYSW" H 3250 4600 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.75u" H 3250 4700 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.75u" H 3250 4700 60  0001 C CNN
 F 3 "" H 3250 4700 60  0000 C CNN
 	1    3250 4700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
+	2650 4600 3550 4600
+$Comp
+L delight-pcb-rescue:KEYSW-keyboard_parts SW59-2
+U 1 1 5E225BFB
+P 2350 5250
+F 0 "SW59-2" H 2350 5483 60  0000 C CNN
+F 1 "KEYSW" H 2350 5150 60  0001 C CNN
+F 2 "Switch_Keyboard_Cherry:SW_Cherry_MX_PCB_1.25u" H 2350 5250 60  0001 C CNN
+F 3 "" H 2350 5250 60  0000 C CNN
+	1    2350 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2050 5250 2050 5350
+Wire Wire Line
+	2050 5350 2850 5350
+Connection ~ 2950 5250
+Wire Wire Line
+	2650 5250 2650 5150
+Wire Wire Line
+	2650 5150 3550 5150
+Wire Wire Line
+	3550 5150 3550 5250
+Wire Wire Line
 	3550 5250 3550 5300
+Connection ~ 3550 5250
+Wire Wire Line
+	2050 4650 2050 4800
+Wire Wire Line
+	2050 4800 2850 4800
+Wire Wire Line
+	2850 4800 2850 4700
+Wire Wire Line
+	2850 4700 2950 4700
+Wire Wire Line
+	2850 5350 2850 5250
+Wire Wire Line
+	2850 5250 2950 5250
 Wire Wire Line
 	3550 4700 3550 4750
+Connection ~ 3550 4700
+Wire Wire Line
+	4250 4700 4250 4750
 Wire Wire Line
 	4950 4700 4950 4750
 Wire Wire Line
@@ -2612,7 +2816,12 @@ Wire Wire Line
 Connection ~ 3550 5050
 Wire Wire Line
 	3550 5050 2850 5050
+Connection ~ 4250 5050
+Wire Wire Line
+	4250 5050 3550 5050
 Connection ~ 4950 5050
+Wire Wire Line
+	4950 5050 4250 5050
 Connection ~ 5650 5050
 Wire Wire Line
 	5650 5050 4950 5050
@@ -2674,8 +2883,12 @@ Wire Wire Line
 Connection ~ 4250 5600
 Wire Wire Line
 	4250 5600 3550 5600
+Connection ~ 4950 5600
 Wire Wire Line
 	4950 5600 4250 5600
+Connection ~ 5650 5600
+Wire Wire Line
+	5650 5600 4950 5600
 Connection ~ 7750 5600
 Wire Wire Line
 	7750 5600 5650 5600
@@ -2695,29 +2908,48 @@ Connection ~ 12650 5600
 Wire Wire Line
 	12650 5600 11950 5600
 Wire Wire Line
-	12050 2950 12050 3500
-Connection ~ 12050 3500
-$Comp
-L delight-pcb-rescue:KEYSW-keyboard_parts SW28
-U 1 1 5BDD4B49
-P 12350 3500
-F 0 "SW28" H 12350 3733 60  0000 C CNN
-F 1 "KEYSW" H 12350 3400 60  0001 C CNN
-F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.50u" H 12350 3500 60  0001 C CNN
-F 3 "" H 12350 3500 60  0000 C CNN
-	1    12350 3500
-	1    0    0    -1  
-$EndComp
+	5650 5900 5650 5700
 Wire Wire Line
-	12050 3500 12050 4100
+	7750 5900 7750 5700
 Wire Wire Line
-	12050 4100 12050 4700
+	9850 5900 9850 5700
 Wire Wire Line
-	3650 4100 3650 5250
+	4250 5900 4250 5700
 Wire Wire Line
-	3550 5050 4950 5050
-Connection ~ 4950 5600
-Connection ~ 5650 5600
+	10550 5700 10500 5700
 Wire Wire Line
-	5650 5600 4950 5600
+	10500 5700 10500 5300
+Wire Wire Line
+	10500 5300 10550 5300
+Wire Wire Line
+	10550 5700 10550 5900
+Connection ~ 10550 5300
+Wire Wire Line
+	9850 5700 9800 5700
+Wire Wire Line
+	9800 5700 9800 5300
+Wire Wire Line
+	9800 5300 9850 5300
+Connection ~ 9850 5300
+Wire Wire Line
+	7750 5700 7700 5700
+Wire Wire Line
+	7700 5700 7700 5300
+Wire Wire Line
+	7700 5300 7750 5300
+Connection ~ 7750 5300
+Wire Wire Line
+	5650 5700 5600 5700
+Wire Wire Line
+	5600 5700 5600 5300
+Wire Wire Line
+	5600 5300 5650 5300
+Connection ~ 5650 5300
+Wire Wire Line
+	4250 5700 4200 5700
+Wire Wire Line
+	4200 5700 4200 5300
+Wire Wire Line
+	4200 5300 4250 5300
+Connection ~ 4250 5300
 $EndSCHEMATC

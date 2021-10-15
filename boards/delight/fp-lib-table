@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Switch_Keyboard_Cherry)(type KiCad)(uri ../keyswitch-kicad-library/modules/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
+  (lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri ../keyswitch-kicad-library/modules/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+  (lib (name Lotier)(type KiCad)(uri ../lotier-library/modules/logos.pretty)(options "")(descr ""))
+)

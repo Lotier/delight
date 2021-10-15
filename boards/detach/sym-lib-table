@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name detach-rescue)(type Legacy)(uri ${KIPRJMOD}/detach-rescue.lib)(options "")(descr ""))
+)
