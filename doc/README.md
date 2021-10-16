@@ -1,4 +1,4 @@
-# DELIGHT Keyboard
+# D-Boards Keyboards
 
 [Build Guide \[To be updated\]]()
 
@@ -10,7 +10,7 @@
 
 [Bootloader\[To be updated\]]()
 
-[BOM (Parts List)](BOM.csv)
+[BOM (Parts List)](https://octopart.com/bom-tool/pwCbX6Qm)
 
 - Upload Bootloader ROM to chip 
   - Bootloader sources differs so we use a atmega32a chip, but otherwises it's just a standard atmega32 chip
